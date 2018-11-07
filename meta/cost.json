@@ -1,0 +1,8801 @@
+[
+  {
+     "building":1
+    ,"level":1
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":624
+    ,"wood":1000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:39"
+  },
+  {
+     "building":1
+    ,"level":2
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":874
+    ,"wood":1500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:52"
+  },
+  {
+     "building":1
+    ,"level":3
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":1300
+    ,"wood":2200
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:04:00"
+  },
+  {
+     "building":1
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":2100
+    ,"wood":3500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:15:50"
+  },
+  {
+     "building":1
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":3600
+    ,"wood":6000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:32:01"
+  },
+  {
+     "building":1
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":6400
+    ,"wood":11000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:04:00"
+  },
+  {
+     "building":1
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":12000
+    ,"wood":20000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:24:02"
+  },
+  {
+     "building":1
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":24000
+    ,"wood":41000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:50:27"
+  },
+  {
+     "building":1
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":49000
+    ,"wood":81000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"5:22:39"
+  },
+  {
+     "building":1
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":98000
+    ,"wood":163000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"6:43:20"
+  },
+  {
+     "building":1
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":189000
+    ,"wood":314000
+    ,"iron":3300
+    ,"silver":0
+    ,"time":"8:15:26"
+  },
+  {
+     "building":1
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":341000
+    ,"wood":568000
+    ,"iron":13000
+    ,"silver":0
+    ,"time":"10:06:56"
+  },
+  {
+     "building":1
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":576000
+    ,"wood":959000
+    ,"iron":34000
+    ,"silver":0
+    ,"time":"12:23:39"
+  },
+  {
+     "building":1
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":905000
+    ,"wood":1510000
+    ,"iron":75000
+    ,"silver":0
+    ,"time":"15:10:49"
+  },
+  {
+     "building":1
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":1320000
+    ,"wood":2190000
+    ,"iron":146000
+    ,"silver":0
+    ,"time":"18:36:42"
+  },
+  {
+     "building":1
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":1810000
+    ,"wood":2930000
+    ,"iron":252000
+    ,"silver":0
+    ,"time":"22:58:01"
+  },
+  {
+     "building":1
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":2340000
+    ,"wood":3390000
+    ,"iron":396000
+    ,"silver":14000
+    ,"time":"1d 04:20:29"
+  },
+  {
+     "building":1
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":3020000
+    ,"wood":3810000
+    ,"iron":610000
+    ,"silver":38000
+    ,"time":"1d 10:58:09"
+  },
+  {
+     "building":1
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":3890000
+    ,"wood":4110000
+    ,"iron":926000
+    ,"silver":78000
+    ,"time":"1d 19:08:32"
+  },
+  {
+     "building":1
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":5000000
+    ,"wood":4170000
+    ,"iron":1390000
+    ,"silver":139000
+    ,"time":"2d 05:13:06"
+  },
+  {
+     "building":1
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":6410000
+    ,"wood":3750000
+    ,"iron":2060000
+    ,"silver":235000
+    ,"time":"2d 15:00:35"
+  },
+  {
+     "building":1
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":8190000
+    ,"wood":2530000
+    ,"iron":3040000
+    ,"silver":380000
+    ,"time":"3d 02:34:44"
+  },
+  {
+     "building":1
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":10900000
+    ,"wood":3420000
+    ,"iron":3760000
+    ,"silver":600000
+    ,"time":"3d 17:11:04"
+  },
+  {
+     "building":1
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":14400000
+    ,"wood":4610000
+    ,"iron":4620000
+    ,"silver":925000
+    ,"time":"4d 10:28:00"
+  },
+  {
+     "building":1
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":19100000
+    ,"wood":6220000
+    ,"iron":5600000
+    ,"silver":1400000
+    ,"time":"5d 07:13:41"
+  },
+  {
+     "building":1
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":25200000
+    ,"wood":8400000
+    ,"iron":6720000
+    ,"silver":2100000
+    ,"time":"6d 07:51:35"
+  },
+  {
+     "building":1
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":34100000
+    ,"wood":11400000
+    ,"iron":7940000
+    ,"silver":3120000
+    ,"time":"7d 14:19:50"
+  },
+  {
+     "building":1
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":46000000
+    ,"wood":15400000
+    ,"iron":9200000
+    ,"silver":4600000
+    ,"time":"9d 02:45:29"
+  },
+  {
+     "building":1
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":62000000
+    ,"wood":20700000
+    ,"iron":12400000
+    ,"silver":6200000
+    ,"time":"10d 22:24:45"
+  },
+  {
+     "building":1
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":83700000
+    ,"wood":27900000
+    ,"iron":16740000
+    ,"silver":8400000
+    ,"time":"13d 02:53:42"
+  },
+  {
+     "building":1
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":83700000
+    ,"wood":35100000
+    ,"iron":16740000
+    ,"silver":8400000
+    ,"time":"15d 07:22:39"
+  },
+  {
+     "building":1
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":83700000
+    ,"wood":42300000
+    ,"iron":16740000
+    ,"silver":8400000
+    ,"time":"13d 23:53:17"
+  },
+  {
+     "building":1
+    ,"level":33
+    ,"needs":[{"k":5, "v":33}]
+    ,"food":83700000
+    ,"wood":49500000
+    ,"iron":16740000
+    ,"silver":8400000
+    ,"time":"19d 16:20:32"
+  },
+  {
+     "building":1
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":1
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":1
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":1
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":1
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":1
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":1
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":0
+    ,"wood":408
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:19"
+  },
+  {
+     "building":2
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":0
+    ,"wood":612
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:42"
+  },
+  {
+     "building":2
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":979
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:47"
+  },
+  {
+     "building":2
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":0
+    ,"wood":1700
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:05:36"
+  },
+  {
+     "building":2
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":3000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:11:11"
+  },
+  {
+     "building":2
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":5700
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:25:12"
+  },
+  {
+     "building":2
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":11000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:40:19"
+  },
+  {
+     "building":2
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":23000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:56:26"
+  },
+  {
+     "building":2
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":46000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:10:33"
+  },
+  {
+     "building":2
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":88000
+    ,"iron":924
+    ,"silver":0
+    ,"time":"1:28:12"
+  },
+  {
+     "building":2
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":159000
+    ,"iron":3500
+    ,"silver":0
+    ,"time":"1:50:16"
+  },
+  {
+     "building":2
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":269000
+    ,"iron":9500
+    ,"silver":0
+    ,"time":"2:17:47"
+  },
+  {
+     "building":2
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":422000
+    ,"iron":21000
+    ,"silver":0
+    ,"time":"2:52:16"
+  },
+  {
+     "building":2
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":614000
+    ,"iron":41000
+    ,"silver":0
+    ,"time":"3:35:19"
+  },
+  {
+     "building":2
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":819000
+    ,"iron":70000
+    ,"silver":0
+    ,"time":"4:30:00"
+  },
+  {
+     "building":2
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":947000
+    ,"iron":111000
+    ,"silver":4000
+    ,"time":"5:36:27"
+  },
+  {
+     "building":2
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":1070000
+    ,"iron":171000
+    ,"silver":11000
+    ,"time":"7:00:34"
+  },
+  {
+     "building":2
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":1160000
+    ,"iron":260000
+    ,"silver":22000
+    ,"time":"8:45:43"
+  },
+  {
+     "building":2
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":1170000
+    ,"iron":390000
+    ,"silver":39000
+    ,"time":"10:57:08"
+  },
+  {
+     "building":2
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":1050000
+    ,"iron":578000
+    ,"silver":66000
+    ,"time":"13:08:35"
+  },
+  {
+     "building":2
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":708000
+    ,"iron":850000
+    ,"silver":107000
+    ,"time":"15:46:18"
+  },
+  {
+     "building":2
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":956000
+    ,"iron":1050000
+    ,"silver":168000
+    ,"time":"18:55:32"
+  },
+  {
+     "building":2
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":1290000
+    ,"iron":1290000
+    ,"silver":258000
+    ,"time":"22:42:39"
+  },
+  {
+     "building":2
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":1750000
+    ,"iron":1570000
+    ,"silver":392000
+    ,"time":"1d 03:15:11"
+  },
+  {
+     "building":2
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":2360000
+    ,"iron":1880000
+    ,"silver":590000
+    ,"time":"1d 08:42:15"
+  },
+  {
+     "building":2
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":3180000
+    ,"iron":2240000
+    ,"silver":875000
+    ,"time":"1d 15:14:41"
+  },
+  {
+     "building":2
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":4290000
+    ,"iron":2580000
+    ,"silver":1290000
+    ,"time":"2d 03:26:41"
+  },
+  {
+     "building":2
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":5790000
+    ,"iron":3480000
+    ,"silver":1740000
+    ,"time":"2d 13:44:02"
+  },
+  {
+     "building":2
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":7810000
+    ,"iron":4700000
+    ,"silver":2350000
+    ,"time":"2d 19:48:55"
+  },
+  {
+     "building":2
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":9830000
+    ,"iron":4700000
+    ,"silver":2350000
+    ,"time":"3d 07:07:03"
+  },
+  {
+     "building":2
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":2
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":2
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":525
+    ,"wood":874
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:07"
+  },
+  {
+     "building":3
+    ,"level":3
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":787
+    ,"wood":1300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:23"
+  },
+  {
+     "building":3
+    ,"level":4
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":1300
+    ,"wood":2100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:35"
+  },
+  {
+     "building":3
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":2100
+    ,"wood":3600
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:19:12"
+  },
+  {
+     "building":3
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":3900
+    ,"wood":6400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:38:23"
+  },
+  {
+     "building":3
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":7300
+    ,"wood":12000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:26:25"
+  },
+  {
+     "building":3
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":15000
+    ,"wood":24000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:18:29"
+  },
+  {
+     "building":3
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":29000
+    ,"wood":49000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:13:37"
+  },
+  {
+     "building":3
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":59000
+    ,"wood":98000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"4:02:06"
+  },
+  {
+     "building":3
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":113000
+    ,"wood":189000
+    ,"iron":2000
+    ,"silver":0
+    ,"time":"4:56:57"
+  },
+  {
+     "building":3
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":205000
+    ,"wood":341000
+    ,"iron":7600
+    ,"silver":0
+    ,"time":"6:04:24"
+  },
+  {
+     "building":3
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":346000
+    ,"wood":576000
+    ,"iron":20000
+    ,"silver":0
+    ,"time":"7:26:16"
+  },
+  {
+     "building":3
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":543000
+    ,"wood":905000
+    ,"iron":45000
+    ,"silver":0
+    ,"time":"9:06:28"
+  },
+  {
+     "building":3
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":789000
+    ,"wood":1320000
+    ,"iron":88000
+    ,"silver":0
+    ,"time":"11:09:14"
+  },
+  {
+     "building":3
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":1090000
+    ,"wood":1760000
+    ,"iron":150000
+    ,"silver":0
+    ,"time":"13:47:43"
+  },
+  {
+     "building":3
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":1410000
+    ,"wood":2030000
+    ,"iron":238000
+    ,"silver":8500
+    ,"time":"17:01:34"
+  },
+  {
+     "building":3
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":1810000
+    ,"wood":2290000
+    ,"iron":366000
+    ,"silver":23000
+    ,"time":"20:58:29"
+  },
+  {
+     "building":3
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":2330000
+    ,"wood":2470000
+    ,"iron":556000
+    ,"silver":46000
+    ,"time":"1d 01:52:22"
+  },
+  {
+     "building":3
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":3000000
+    ,"wood":2500000
+    ,"iron":834000
+    ,"silver":84000
+    ,"time":"1d 07:55:51"
+  },
+  {
+     "building":3
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":3850000
+    ,"wood":2250000
+    ,"iron":1240000
+    ,"silver":141000
+    ,"time":"1d 13:48:57"
+  },
+  {
+     "building":3
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":4920000
+    ,"wood":1520000
+    ,"iron":1820000
+    ,"silver":228000
+    ,"time":"1d 20:45:38"
+  },
+  {
+     "building":3
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":6520000
+    ,"wood":2050000
+    ,"iron":2260000
+    ,"silver":359000
+    ,"time":"2d 05:28:15"
+  },
+  {
+     "building":3
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":8630000
+    ,"wood":2770000
+    ,"iron":2780000
+    ,"silver":555000
+    ,"time":"2d 15:51:44"
+  },
+  {
+     "building":3
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":11500000
+    ,"wood":3740000
+    ,"iron":3360000
+    ,"silver":840000
+    ,"time":"3d 04:23:57"
+  },
+  {
+     "building":3
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":15200000
+    ,"wood":5040000
+    ,"iron":4040000
+    ,"silver":1260000
+    ,"time":"3d 19:13:36"
+  },
+  {
+     "building":3
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":20500000
+    ,"wood":6810000
+    ,"iron":4780000
+    ,"silver":1880000
+    ,"time":"4d 13:26:52"
+  },
+  {
+     "building":3
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":27600000
+    ,"wood":9190000
+    ,"iron":5520000
+    ,"silver":2760000
+    ,"time":"5d 11:15:17"
+  },
+  {
+     "building":3
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":37200000
+    ,"wood":12400000
+    ,"iron":7440000
+    ,"silver":3720000
+    ,"time":"6d 13:26:50"
+  },
+  {
+     "building":3
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":50200000
+    ,"wood":16800000
+    ,"iron":10040000
+    ,"silver":5050000
+    ,"time":"7d 20:55:10"
+  },
+  {
+     "building":3
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":67800000
+    ,"wood":22600000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"9d 10:43:37"
+  },
+  {
+     "building":3
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":67800000
+    ,"wood":28400000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"11d 00:32:02"
+  },
+  {
+     "building":3
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":3
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":525
+    ,"wood":874
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:07"
+  },
+  {
+     "building":4
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":787
+    ,"wood":1300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:23"
+  },
+  {
+     "building":4
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":1300
+    ,"wood":2100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:35"
+  },
+  {
+     "building":4
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":2100
+    ,"wood":3600
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:19:12"
+  },
+  {
+     "building":4
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":3900
+    ,"wood":6400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:38:23"
+  },
+  {
+     "building":4
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":7300
+    ,"wood":12000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:26:25"
+  },
+  {
+     "building":4
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":15000
+    ,"wood":24000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:18:29"
+  },
+  {
+     "building":4
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":29000
+    ,"wood":49000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:13:37"
+  },
+  {
+     "building":4
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":59000
+    ,"wood":98000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"4:02:06"
+  },
+  {
+     "building":4
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":113000
+    ,"wood":189000
+    ,"iron":2000
+    ,"silver":0
+    ,"time":"4:56:57"
+  },
+  {
+     "building":4
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":205000
+    ,"wood":341000
+    ,"iron":7600
+    ,"silver":0
+    ,"time":"6:04:24"
+  },
+  {
+     "building":4
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":346000
+    ,"wood":576000
+    ,"iron":20000
+    ,"silver":0
+    ,"time":"7:26:16"
+  },
+  {
+     "building":4
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":543000
+    ,"wood":905000
+    ,"iron":45000
+    ,"silver":0
+    ,"time":"9:06:28"
+  },
+  {
+     "building":4
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":789000
+    ,"wood":1320000
+    ,"iron":88000
+    ,"silver":0
+    ,"time":"11:09:14"
+  },
+  {
+     "building":4
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":1090000
+    ,"wood":1760000
+    ,"iron":150000
+    ,"silver":0
+    ,"time":"13:47:43"
+  },
+  {
+     "building":4
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":1410000
+    ,"wood":2030000
+    ,"iron":238000
+    ,"silver":8500
+    ,"time":"17:01:34"
+  },
+  {
+     "building":4
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":1810000
+    ,"wood":2290000
+    ,"iron":366000
+    ,"silver":23000
+    ,"time":"20:58:29"
+  },
+  {
+     "building":4
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":2330000
+    ,"wood":2470000
+    ,"iron":556000
+    ,"silver":46000
+    ,"time":"1d 01:52:22"
+  },
+  {
+     "building":4
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":3000000
+    ,"wood":2500000
+    ,"iron":834000
+    ,"silver":84000
+    ,"time":"1d 07:55:51"
+  },
+  {
+     "building":4
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":3850000
+    ,"wood":2250000
+    ,"iron":1240000
+    ,"silver":141000
+    ,"time":"1d 13:48:57"
+  },
+  {
+     "building":4
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":4920000
+    ,"wood":1520000
+    ,"iron":1820000
+    ,"silver":228000
+    ,"time":"1d 20:45:38"
+  },
+  {
+     "building":4
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":6520000
+    ,"wood":2050000
+    ,"iron":2260000
+    ,"silver":359000
+    ,"time":"2d 05:28:15"
+  },
+  {
+     "building":4
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":8630000
+    ,"wood":2770000
+    ,"iron":2780000
+    ,"silver":555000
+    ,"time":"2d 15:51:44"
+  },
+  {
+     "building":4
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":11500000
+    ,"wood":3740000
+    ,"iron":3360000
+    ,"silver":840000
+    ,"time":"3d 04:23:57"
+  },
+  {
+     "building":4
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":15200000
+    ,"wood":5040000
+    ,"iron":4040000
+    ,"silver":1260000
+    ,"time":"3d 19:13:36"
+  },
+  {
+     "building":4
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":20500000
+    ,"wood":6810000
+    ,"iron":4780000
+    ,"silver":1880000
+    ,"time":"4d 13:26:52"
+  },
+  {
+     "building":4
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":27600000
+    ,"wood":9190000
+    ,"iron":5520000
+    ,"silver":2760000
+    ,"time":"5d 11:15:17"
+  },
+  {
+     "building":4
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":37200000
+    ,"wood":12400000
+    ,"iron":7440000
+    ,"silver":3720000
+    ,"time":"6d 13:26:50"
+  },
+  {
+     "building":4
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":50200000
+    ,"wood":16800000
+    ,"iron":10040000
+    ,"silver":5050000
+    ,"time":"7d 20:55:10"
+  },
+  {
+     "building":4
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":67800000
+    ,"wood":22600000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"9d 10:43:37"
+  },
+  {
+     "building":4
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":67800000
+    ,"wood":28400000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"11d 00:32:02"
+  },
+  {
+     "building":4
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":4
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":5
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":5
+    ,"level":2
+    ,"needs":[{"k":21, "v":1}]
+    ,"food":2900
+    ,"wood":2900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:04:40"
+  },
+  {
+     "building":5
+    ,"level":3
+    ,"needs":[{"k":21, "v":2}]
+    ,"food":4400
+    ,"wood":4400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:10:00"
+  },
+  {
+     "building":5
+    ,"level":4
+    ,"needs":[{"k":13, "v":3},{"k":21, "v":3}]
+    ,"food":7000
+    ,"wood":7000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:40:00"
+  },
+  {
+     "building":5
+    ,"level":5
+    ,"needs":[{"k":7, "v":4},{"k":21, "v":4}]
+    ,"food":12000
+    ,"wood":12000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:20:03"
+  },
+  {
+     "building":5
+    ,"level":6
+    ,"needs":[{"k":21, "v":5},{"k":22, "v":5}]
+    ,"food":21000
+    ,"wood":21000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:40:03"
+  },
+  {
+     "building":5
+    ,"level":7
+    ,"needs":[{"k":2, "v":6},{"k":21, "v":6}]
+    ,"food":41000
+    ,"wood":41000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"6:00:17"
+  },
+  {
+     "building":5
+    ,"level":8
+    ,"needs":[{"k":1, "v":7},{"k":21, "v":7}]
+    ,"food":81000
+    ,"wood":81000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"9:30:55"
+  },
+  {
+     "building":5
+    ,"level":9
+    ,"needs":[{"k":14, "v":8},{"k":21, "v":8}]
+    ,"food":163000
+    ,"wood":163000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"13:27:33"
+  },
+  {
+     "building":5
+    ,"level":10
+    ,"needs":[{"k":21, "v":9},{"k":22, "v":9}]
+    ,"food":326000
+    ,"wood":326000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"16:49:27"
+  },
+  {
+     "building":5
+    ,"level":11
+    ,"needs":[{"k":10, "v":10},{"k":21, "v":10}]
+    ,"food":627000
+    ,"wood":627000
+    ,"iron":6600
+    ,"silver":0
+    ,"time":"20:28:37"
+  },
+  {
+     "building":5
+    ,"level":12
+    ,"needs":[{"k":3, "v":11},{"k":21, "v":11}]
+    ,"food":1140000
+    ,"wood":1140000
+    ,"iron":25000
+    ,"silver":0
+    ,"time":"1d 01:00:08"
+  },
+  {
+     "building":5
+    ,"level":13
+    ,"needs":[{"k":21, "v":12}]
+    ,"food":1920000
+    ,"wood":1920000
+    ,"iron":68000
+    ,"silver":0
+    ,"time":"1d 06:22:31"
+  },
+  {
+     "building":5
+    ,"level":14
+    ,"needs":[{"k":16, "v":13},{"k":21, "v":13}]
+    ,"food":3020000
+    ,"wood":3020000
+    ,"iron":151000
+    ,"silver":0
+    ,"time":"1d 12:56:48"
+  },
+  {
+     "building":5
+    ,"level":15
+    ,"needs":[{"k":20, "v":14},{"k":21, "v":14}]
+    ,"food":4380000
+    ,"wood":4380000
+    ,"iron":292000
+    ,"silver":0
+    ,"time":"1d 20:51:43"
+  },
+  {
+     "building":5
+    ,"level":16
+    ,"needs":[{"k":17, "v":15},{"k":21, "v":15}]
+    ,"food":6020000
+    ,"wood":5850000
+    ,"iron":502000
+    ,"silver":0
+    ,"time":"2d 07:08:38"
+  },
+  {
+     "building":5
+    ,"level":17
+    ,"needs":[{"k":16, "v":16},{"k":21, "v":16}]
+    ,"food":7780000
+    ,"wood":6770000
+    ,"iron":790000
+    ,"silver":28000
+    ,"time":"2d 19:41:48"
+  },
+  {
+     "building":5
+    ,"level":18
+    ,"needs":[{"k":2, "v":17},{"k":21, "v":17}]
+    ,"food":10100000
+    ,"wood":7610000
+    ,"iron":1220000
+    ,"silver":77000
+    ,"time":"3d 11:17:44"
+  },
+  {
+     "building":5
+    ,"level":19
+    ,"needs":[{"k":6, "v":18},{"k":21, "v":18}]
+    ,"food":13000000
+    ,"wood":8220000
+    ,"iron":1850000
+    ,"silver":155000
+    ,"time":"4d 06:11:07"
+  },
+  {
+     "building":5
+    ,"level":20
+    ,"needs":[{"k":21, "v":19}]
+    ,"food":16700000
+    ,"wood":8330000
+    ,"iron":2780000
+    ,"silver":278000
+    ,"time":"5d 05:20:02"
+  },
+  {
+     "building":5
+    ,"level":21
+    ,"needs":[{"k":13, "v":20},{"k":21, "v":20}]
+    ,"food":21400000
+    ,"wood":7490000
+    ,"iron":4120000
+    ,"silver":469000
+    ,"time":"6d 03:31:48"
+  },
+  {
+     "building":5
+    ,"level":22
+    ,"needs":[{"k":21, "v":21}]
+    ,"food":27300000
+    ,"wood":5060000
+    ,"iron":6080000
+    ,"silver":760000
+    ,"time":"7d 05:29:35"
+  },
+  {
+     "building":5
+    ,"level":23
+    ,"needs":[{"k":4, "v":22},{"k":21, "v":22}]
+    ,"food":36200000
+    ,"wood":6830000
+    ,"iron":7520000
+    ,"silver":1200000
+    ,"time":"8d 14:53:39"
+  },
+  {
+     "building":5
+    ,"level":24
+    ,"needs":[{"k":18, "v":23},{"k":21, "v":23}]
+    ,"food":48000000
+    ,"wood":9220000
+    ,"iron":9220000
+    ,"silver":1850000
+    ,"time":"10d 06:44:28"
+  },
+  {
+     "building":5
+    ,"level":25
+    ,"needs":[{"k":1, "v":24},{"k":21, "v":24}]
+    ,"food":63500000
+    ,"wood":12500000
+    ,"iron":11200000
+    ,"silver":2800000
+    ,"time":"12d 06:03:16"
+  },
+  {
+     "building":5
+    ,"level":26
+    ,"needs":[{"k":6, "v":25},{"k":21, "v":25}]
+    ,"food":84000000
+    ,"wood":16800000
+    ,"iron":13440000
+    ,"silver":4200000
+    ,"time":"14d 14:27:57"
+  },
+  {
+     "building":5
+    ,"level":27
+    ,"needs":[{"k":21, "v":26},{"k":22, "v":26}]
+    ,"food":114000000
+    ,"wood":22700000
+    ,"iron":15880000
+    ,"silver":6250000
+    ,"time":"17d 13:18:03"
+  },
+  {
+     "building":5
+    ,"level":28
+    ,"needs":[{"k":4, "v":27},{"k":21, "v":27}]
+    ,"food":154000000
+    ,"wood":30700000
+    ,"iron":18380000
+    ,"silver":9200000
+    ,"time":"21d 01:40:16"
+  },
+  {
+     "building":5
+    ,"level":29
+    ,"needs":[{"k":3, "v":28},{"k":21, "v":28}]
+    ,"food":206950000
+    ,"wood":41400000
+    ,"iron":24800000
+    ,"silver":12400000
+    ,"time":"25d 05:55:33"
+  },
+  {
+     "building":5
+    ,"level":30
+    ,"needs":[{"k":16, "v":29},{"k":21, "v":29}]
+    ,"food":279000000
+    ,"wood":55800000
+    ,"iron":33600000
+    ,"silver":16750000
+    ,"time":"30d 06:43:13"
+  },
+  {
+     "building":5
+    ,"level":31
+    ,"needs":[{"k":1, "v":30},{"k":21, "v":30}]
+    ,"food":377000000
+    ,"wood":75300000
+    ,"iron":45200000
+    ,"silver":22600000
+    ,"time":"36d 08:20:05"
+  },
+  {
+     "building":5
+    ,"level":32
+    ,"needs":[{"k":4, "v":31},{"k":21, "v":31}]
+    ,"food":377000000
+    ,"wood":94800000
+    ,"iron":45200000
+    ,"silver":22600000
+    ,"time":"42d 09:56:57"
+  },
+  {
+     "building":5
+    ,"level":33
+    ,"needs":[{"k":18, "v":32},{"k":21, "v":32}]
+    ,"food":377000000
+    ,"wood":114200000
+    ,"iron":45200000
+    ,"silver":22600000
+    ,"time":"48d 11:33:50"
+  },
+  {
+     "building":5
+    ,"level":34
+    ,"needs":[{"k":21, "v":33},{"k":22, "v":33}]
+    ,"food":377000000
+    ,"wood":133800000
+    ,"iron":45200000
+    ,"silver":22600000
+    ,"time":"0:00:00"
+  },
+  {
+     "building":5
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":5
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":5
+    ,"level":37
+    ,"needs":[{"k":6, "v":36},{"k":21, "v":36}]
+    ,"food":415640000
+    ,"wood":169010000
+    ,"iron":49830000
+    ,"silver":24920000
+    ,"time":"100d 13:14:58"
+  },
+  {
+     "building":5
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":5
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":5
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":2
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":1000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:48"
+  },
+  {
+     "building":6
+    ,"level":3
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":1500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:45"
+  },
+  {
+     "building":6
+    ,"level":4
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":2500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:06:59"
+  },
+  {
+     "building":6
+    ,"level":5
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":4200
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:13:59"
+  },
+  {
+     "building":6
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":7500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:27:44"
+  },
+  {
+     "building":6
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":14000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:02:26"
+  },
+  {
+     "building":6
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":29000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:40:47"
+  },
+  {
+     "building":6
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":57000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:21:06"
+  },
+  {
+     "building":6
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":114000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:56:23"
+  },
+  {
+     "building":6
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":220000
+    ,"iron":2300
+    ,"silver":0
+    ,"time":"3:40:30"
+  },
+  {
+     "building":6
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":398000
+    ,"iron":8800
+    ,"silver":0
+    ,"time":"4:35:40"
+  },
+  {
+     "building":6
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":672000
+    ,"iron":24000
+    ,"silver":0
+    ,"time":"5:44:36"
+  },
+  {
+     "building":6
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":1060000
+    ,"iron":53000
+    ,"silver":0
+    ,"time":"7:10:40"
+  },
+  {
+     "building":6
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":1540000
+    ,"iron":102000
+    ,"silver":0
+    ,"time":"8:58:19"
+  },
+  {
+     "building":6
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":2050000
+    ,"iron":175000
+    ,"silver":0
+    ,"time":"11:12:55"
+  },
+  {
+     "building":6
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":2370000
+    ,"iron":278000
+    ,"silver":9900
+    ,"time":"14:01:08"
+  },
+  {
+     "building":6
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":2670000
+    ,"iron":428000
+    ,"silver":27000
+    ,"time":"17:31:26"
+  },
+  {
+     "building":6
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":2880000
+    ,"iron":648000
+    ,"silver":54000
+    ,"time":"21:54:18"
+  },
+  {
+     "building":6
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":2920000
+    ,"iron":972000
+    ,"silver":98000
+    ,"time":"1d 03:22:53"
+  },
+  {
+     "building":6
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":2630000
+    ,"iron":1440000
+    ,"silver":164000
+    ,"time":"1d 08:51:27"
+  },
+  {
+     "building":6
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":1770000
+    ,"iron":2140000
+    ,"silver":266000
+    ,"time":"1d 15:25:44"
+  },
+  {
+     "building":6
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":2390000
+    ,"iron":2640000
+    ,"silver":419000
+    ,"time":"1d 23:18:53"
+  },
+  {
+     "building":6
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":3230000
+    ,"iron":3240000
+    ,"silver":645000
+    ,"time":"2d 08:46:41"
+  },
+  {
+     "building":6
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":4360000
+    ,"iron":3920000
+    ,"silver":980000
+    ,"time":"2d 20:08:00"
+  },
+  {
+     "building":6
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":5880000
+    ,"iron":4720000
+    ,"silver":1470000
+    ,"time":"3d 09:45:36"
+  },
+  {
+     "building":6
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":7940000
+    ,"iron":5560000
+    ,"silver":2190000
+    ,"time":"4d 02:06:45"
+  },
+  {
+     "building":6
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":10800000
+    ,"iron":6440000
+    ,"silver":3220000
+    ,"time":"4d 21:44:06"
+  },
+  {
+     "building":6
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":14500000
+    ,"iron":8680000
+    ,"silver":4340000
+    ,"time":"5d 21:16:55"
+  },
+  {
+     "building":6
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":19600000
+    ,"iron":11720000
+    ,"silver":5900000
+    ,"time":"7d 01:32:17"
+  },
+  {
+     "building":6
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":24700000
+    ,"iron":11720000
+    ,"silver":5900000
+    ,"time":"7d 10:24:10"
+  },
+  {
+     "building":6
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":36
+    ,"needs":[{"k":5, "v":36}]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":6
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":2
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":0
+    ,"wood":95
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:37"
+  },
+  {
+     "building":7
+    ,"level":3
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":0
+    ,"wood":134
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:06"
+  },
+  {
+     "building":7
+    ,"level":4
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":0
+    ,"wood":200
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:05:23"
+  },
+  {
+     "building":7
+    ,"level":5
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":0
+    ,"wood":318
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:08:13"
+  },
+  {
+     "building":7
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":535
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:12:06"
+  },
+  {
+     "building":7
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":951
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:18:53"
+  },
+  {
+     "building":7
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":1800
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:29:58"
+  },
+  {
+     "building":7
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":3300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:42:19"
+  },
+  {
+     "building":7
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":6200
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:53:54"
+  },
+  {
+     "building":7
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":11000
+    ,"iron":118
+    ,"silver":0
+    ,"time":"1:20:01"
+  },
+  {
+     "building":7
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":19000
+    ,"iron":422
+    ,"silver":0
+    ,"time":"1:59:05"
+  },
+  {
+     "building":7
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":30000
+    ,"iron":1100
+    ,"silver":0
+    ,"time":"2:54:41"
+  },
+  {
+     "building":7
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":44000
+    ,"iron":2200
+    ,"silver":0
+    ,"time":"4:13:13"
+  },
+  {
+     "building":7
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":60000
+    ,"iron":4000
+    ,"silver":0
+    ,"time":"6:03:21"
+  },
+  {
+     "building":7
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":75000
+    ,"iron":6400
+    ,"silver":0
+    ,"time":"7:34:13"
+  },
+  {
+     "building":7
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":81000
+    ,"iron":9400
+    ,"silver":337
+    ,"time":"9:27:45"
+  },
+  {
+     "building":7
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":85000
+    ,"iron":14000
+    ,"silver":850
+    ,"time":"11:49:43"
+  },
+  {
+     "building":7
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":86000
+    ,"iron":19000
+    ,"silver":1600
+    ,"time":"14:47:08"
+  },
+  {
+     "building":7
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":81000
+    ,"iron":27000
+    ,"silver":2700
+    ,"time":"18:28:55"
+  },
+  {
+     "building":7
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":68000
+    ,"iron":38000
+    ,"silver":4300
+    ,"time":"22:10:43"
+  },
+  {
+     "building":7
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":43000
+    ,"iron":52000
+    ,"silver":6500
+    ,"time":"1d 02:36:53"
+  },
+  {
+     "building":7
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":55000
+    ,"iron":60000
+    ,"silver":9600
+    ,"time":"1d 07:56:15"
+  },
+  {
+     "building":7
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":69000
+    ,"iron":69000
+    ,"silver":14000
+    ,"time":"1d 14:19:29"
+  },
+  {
+     "building":7
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":87000
+    ,"iron":78000
+    ,"silver":20000
+    ,"time":"1d 21:59:24"
+  },
+  {
+     "building":7
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":110000
+    ,"iron":88000
+    ,"silver":27000
+    ,"time":"2d 07:11:17"
+  },
+  {
+     "building":7
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":139000
+    ,"iron":97000
+    ,"silver":38000
+    ,"time":"2d 18:13:32"
+  },
+  {
+     "building":7
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":175000
+    ,"iron":105000
+    ,"silver":53000
+    ,"time":"3d 07:28:15"
+  },
+  {
+     "building":7
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":221000
+    ,"iron":132000
+    ,"silver":67000
+    ,"time":"3d 23:21:55"
+  },
+  {
+     "building":7
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":278000
+    ,"iron":167000
+    ,"silver":84000
+    ,"time":"4d 18:26:17"
+  },
+  {
+     "building":7
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":335000
+    ,"iron":168000
+    ,"silver":84000
+    ,"time":"5d 13:30:40"
+  },
+  {
+     "building":7
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":0
+    ,"wood":392000
+    ,"iron":169000
+    ,"silver":84000
+    ,"time":"6d 08:35:02"
+  },
+  {
+     "building":7
+    ,"level":33
+    ,"needs":[{"k":5, "v":33}]
+    ,"food":0
+    ,"wood":449000
+    ,"iron":170000
+    ,"silver":84000
+    ,"time":"7d 03:39:26"
+  },
+  {
+     "building":7
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":7
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":0
+    ,"wood":583
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:27"
+  },
+  {
+     "building":8
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":0
+    ,"wood":874
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:00"
+  },
+  {
+     "building":8
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":1400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:03:58"
+  },
+  {
+     "building":8
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":0
+    ,"wood":1400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:07:55"
+  },
+  {
+     "building":8
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":4300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:15:59"
+  },
+  {
+     "building":8
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":8100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:36:00"
+  },
+  {
+     "building":8
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":16000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:57:36"
+  },
+  {
+     "building":8
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":33000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:20:37"
+  },
+  {
+     "building":8
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":65000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:40:48"
+  },
+  {
+     "building":8
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":126000
+    ,"iron":1300
+    ,"silver":0
+    ,"time":"2:05:59"
+  },
+  {
+     "building":8
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":227000
+    ,"iron":5100
+    ,"silver":0
+    ,"time":"2:37:29"
+  },
+  {
+     "building":8
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":384000
+    ,"iron":14000
+    ,"silver":0
+    ,"time":"3:16:51"
+  },
+  {
+     "building":8
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":603000
+    ,"iron":30000
+    ,"silver":0
+    ,"time":"4:06:05"
+  },
+  {
+     "building":8
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":876000
+    ,"iron":58000
+    ,"silver":0
+    ,"time":"5:07:36"
+  },
+  {
+     "building":8
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":1170000
+    ,"iron":100000
+    ,"silver":0
+    ,"time":"6:24:30"
+  },
+  {
+     "building":8
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":1360000
+    ,"iron":158000
+    ,"silver":5700
+    ,"time":"8:00:39"
+  },
+  {
+     "building":8
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":1530000
+    ,"iron":244000
+    ,"silver":15000
+    ,"time":"10:00:48"
+  },
+  {
+     "building":8
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":1650000
+    ,"iron":370000
+    ,"silver":31000
+    ,"time":"12:31:01"
+  },
+  {
+     "building":8
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":1670000
+    ,"iron":556000
+    ,"silver":56000
+    ,"time":"15:38:47"
+  },
+  {
+     "building":8
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":1500000
+    ,"iron":824000
+    ,"silver":94000
+    ,"time":"18:46:32"
+  },
+  {
+     "building":8
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":1020000
+    ,"iron":1210000
+    ,"silver":152000
+    ,"time":"22:31:50"
+  },
+  {
+     "building":8
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":1370000
+    ,"iron":1500000
+    ,"silver":239000
+    ,"time":"1d 03:02:13"
+  },
+  {
+     "building":8
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":1850000
+    ,"iron":1840000
+    ,"silver":369000
+    ,"time":"1d 08:26:40"
+  },
+  {
+     "building":8
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":2490000
+    ,"iron":2240000
+    ,"silver":560000
+    ,"time":"1d 14:55:58"
+  },
+  {
+     "building":8
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":3360000
+    ,"iron":2700000
+    ,"silver":840000
+    ,"time":"1d 22:43:12"
+  },
+  {
+     "building":8
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":4540000
+    ,"iron":3180000
+    ,"silver":1250000
+    ,"time":"2d 08:03:50"
+  },
+  {
+     "building":8
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":6130000
+    ,"iron":3680000
+    ,"silver":1840000
+    ,"time":"2d 19:16:37"
+  },
+  {
+     "building":8
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":8270000
+    ,"iron":4960000
+    ,"silver":2480000
+    ,"time":"3d 08:43:56"
+  },
+  {
+     "building":8
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":11200000
+    ,"iron":6700000
+    ,"silver":3350000
+    ,"time":"4d 00:52:45"
+  },
+  {
+     "building":8
+    ,"level":31
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":8
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":2
+    ,"needs":[{"k":6, "v":2}]
+    ,"food":0
+    ,"wood":437
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:20"
+  },
+  {
+     "building":9
+    ,"level":3
+    ,"needs":[{"k":6, "v":3}]
+    ,"food":0
+    ,"wood":656
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:44"
+  },
+  {
+     "building":9
+    ,"level":4
+    ,"needs":[{"k":6, "v":4}]
+    ,"food":0
+    ,"wood":1100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:58"
+  },
+  {
+     "building":9
+    ,"level":5
+    ,"needs":[{"k":6, "v":5}]
+    ,"food":0
+    ,"wood":1800
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:05:56"
+  },
+  {
+     "building":9
+    ,"level":6
+    ,"needs":[{"k":6, "v":6}]
+    ,"food":0
+    ,"wood":3200
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:11:59"
+  },
+  {
+     "building":9
+    ,"level":7
+    ,"needs":[{"k":6, "v":7}]
+    ,"food":0
+    ,"wood":6100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:40:30"
+  },
+  {
+     "building":9
+    ,"level":8
+    ,"needs":[{"k":6, "v":8}]
+    ,"food":0
+    ,"wood":12000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:43:12"
+  },
+  {
+     "building":9
+    ,"level":9
+    ,"needs":[{"k":6, "v":9}]
+    ,"food":0
+    ,"wood":24000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:00:27"
+  },
+  {
+     "building":9
+    ,"level":10
+    ,"needs":[{"k":6, "v":10}]
+    ,"food":0
+    ,"wood":49000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:15:35"
+  },
+  {
+     "building":9
+    ,"level":11
+    ,"needs":[{"k":6, "v":11}]
+    ,"food":0
+    ,"wood":94000
+    ,"iron":990
+    ,"silver":0
+    ,"time":"1:34:30"
+  },
+  {
+     "building":9
+    ,"level":12
+    ,"needs":[{"k":6, "v":12}]
+    ,"food":0
+    ,"wood":171000
+    ,"iron":3800
+    ,"silver":0
+    ,"time":"2:05:13"
+  },
+  {
+     "building":9
+    ,"level":13
+    ,"needs":[{"k":6, "v":13}]
+    ,"food":0
+    ,"wood":288000
+    ,"iron":10000
+    ,"silver":0
+    ,"time":"2:27:39"
+  },
+  {
+     "building":9
+    ,"level":14
+    ,"needs":[{"k":6, "v":14}]
+    ,"food":0
+    ,"wood":453000
+    ,"iron":23000
+    ,"silver":0
+    ,"time":"3:04:33"
+  },
+  {
+     "building":9
+    ,"level":15
+    ,"needs":[{"k":6, "v":15}]
+    ,"food":0
+    ,"wood":657000
+    ,"iron":44000
+    ,"silver":0
+    ,"time":"3:50:42"
+  },
+  {
+     "building":9
+    ,"level":16
+    ,"needs":[{"k":6, "v":16}]
+    ,"food":0
+    ,"wood":877000
+    ,"iron":75000
+    ,"silver":0
+    ,"time":"4:48:23"
+  },
+  {
+     "building":9
+    ,"level":17
+    ,"needs":[{"k":6, "v":17}]
+    ,"food":0
+    ,"wood":1020000
+    ,"iron":118000
+    ,"silver":4200
+    ,"time":"6:00:28"
+  },
+  {
+     "building":9
+    ,"level":18
+    ,"needs":[{"k":6, "v":18}]
+    ,"food":0
+    ,"wood":1150000
+    ,"iron":183000
+    ,"silver":11000
+    ,"time":"7:30:36"
+  },
+  {
+     "building":9
+    ,"level":19
+    ,"needs":[{"k":6, "v":19}]
+    ,"food":0
+    ,"wood":1240000
+    ,"iron":278000
+    ,"silver":23000
+    ,"time":"9:23:16"
+  },
+  {
+     "building":9
+    ,"level":20
+    ,"needs":[{"k":6, "v":20}]
+    ,"food":0
+    ,"wood":1250000
+    ,"iron":418000
+    ,"silver":42000
+    ,"time":"11:44:05"
+  },
+  {
+     "building":9
+    ,"level":21
+    ,"needs":[{"k":6, "v":21}]
+    ,"food":0
+    ,"wood":1130000
+    ,"iron":618000
+    ,"silver":71000
+    ,"time":"14:04:53"
+  },
+  {
+     "building":9
+    ,"level":22
+    ,"needs":[{"k":6, "v":22}]
+    ,"food":0
+    ,"wood":759000
+    ,"iron":910000
+    ,"silver":114000
+    ,"time":"16:53:53"
+  },
+  {
+     "building":9
+    ,"level":23
+    ,"needs":[{"k":6, "v":23}]
+    ,"food":0
+    ,"wood":1030000
+    ,"iron":1130000
+    ,"silver":180000
+    ,"time":"20:16:40"
+  },
+  {
+     "building":9
+    ,"level":24
+    ,"needs":[{"k":6, "v":24}]
+    ,"food":0
+    ,"wood":1390000
+    ,"iron":1380000
+    ,"silver":277000
+    ,"time":"1d 00:20:00"
+  },
+  {
+     "building":9
+    ,"level":25
+    ,"needs":[{"k":6, "v":25}]
+    ,"food":0
+    ,"wood":1870000
+    ,"iron":1680000
+    ,"silver":420000
+    ,"time":"1d 05:12:00"
+  },
+  {
+     "building":9
+    ,"level":26
+    ,"needs":[{"k":6, "v":26}]
+    ,"food":0
+    ,"wood":2520000
+    ,"iron":2020000
+    ,"silver":630000
+    ,"time":"1d 11:02:22"
+  },
+  {
+     "building":9
+    ,"level":27
+    ,"needs":[{"k":6, "v":27}]
+    ,"food":0
+    ,"wood":3410000
+    ,"iron":2400000
+    ,"silver":940000
+    ,"time":"1d 18:02:52"
+  },
+  {
+     "building":9
+    ,"level":28
+    ,"needs":[{"k":6, "v":28}]
+    ,"food":0
+    ,"wood":4600000
+    ,"iron":2760000
+    ,"silver":1380000
+    ,"time":"2d 02:27:27"
+  },
+  {
+     "building":9
+    ,"level":29
+    ,"needs":[{"k":6, "v":29}]
+    ,"food":0
+    ,"wood":6200000
+    ,"iron":3720000
+    ,"silver":1860000
+    ,"time":"2d 12:32:57"
+  },
+  {
+     "building":9
+    ,"level":30
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":31
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":9
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":2
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":204
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:46"
+  },
+  {
+     "building":10
+    ,"level":3
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":306
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:04"
+  },
+  {
+     "building":10
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":490
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:06:39"
+  },
+  {
+     "building":10
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":0
+    ,"wood":832
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:11:39"
+  },
+  {
+     "building":10
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":1500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:19:58"
+  },
+  {
+     "building":10
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":2900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:37:48"
+  },
+  {
+     "building":10
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":5700
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:00:27"
+  },
+  {
+     "building":10
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":11000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:24:40"
+  },
+  {
+     "building":10
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":23000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:45:49"
+  },
+  {
+     "building":10
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":44000
+    ,"iron":462
+    ,"silver":0
+    ,"time":"2:25:32"
+  },
+  {
+     "building":10
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":80000
+    ,"iron":1800
+    ,"silver":0
+    ,"time":"3:18:29"
+  },
+  {
+     "building":10
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":135000
+    ,"iron":4700
+    ,"silver":0
+    ,"time":"4:28:47"
+  },
+  {
+     "building":10
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":211000
+    ,"iron":11000
+    ,"silver":0
+    ,"time":"6:01:44"
+  },
+  {
+     "building":10
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":307000
+    ,"iron":21000
+    ,"silver":0
+    ,"time":"8:04:29"
+  },
+  {
+     "building":10
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":410000
+    ,"iron":35000
+    ,"silver":0
+    ,"time":"10:05:37"
+  },
+  {
+     "building":10
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":474000
+    ,"iron":55000
+    ,"silver":2000
+    ,"time":"12:37:02"
+  },
+  {
+     "building":10
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":533000
+    ,"iron":85000
+    ,"silver":5400
+    ,"time":"15:46:18"
+  },
+  {
+     "building":10
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":576000
+    ,"iron":130000
+    ,"silver":11000
+    ,"time":"19:42:52"
+  },
+  {
+     "building":10
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":583000
+    ,"iron":194000
+    ,"silver":19000
+    ,"time":"1d 00:38:35"
+  },
+  {
+     "building":10
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":525000
+    ,"iron":290000
+    ,"silver":33000
+    ,"time":"1d 05:34:19"
+  },
+  {
+     "building":10
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":354000
+    ,"iron":426000
+    ,"silver":54000
+    ,"time":"1d 11:29:09"
+  },
+  {
+     "building":10
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":478000
+    ,"iron":526000
+    ,"silver":84000
+    ,"time":"1d 18:34:59"
+  },
+  {
+     "building":10
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":645000
+    ,"iron":646000
+    ,"silver":129000
+    ,"time":"2d 03:06:01"
+  },
+  {
+     "building":10
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":871000
+    ,"iron":784000
+    ,"silver":196000
+    ,"time":"2d 13:19:13"
+  },
+  {
+     "building":10
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":1180000
+    ,"iron":942000
+    ,"silver":294000
+    ,"time":"3d 01:35:03"
+  },
+  {
+     "building":10
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":1590000
+    ,"iron":1110000
+    ,"silver":437000
+    ,"time":"3d 16:18:03"
+  },
+  {
+     "building":10
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":2150000
+    ,"iron":1290000
+    ,"silver":645000
+    ,"time":"4d 09:58:40"
+  },
+  {
+     "building":10
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":2900000
+    ,"iron":1740000
+    ,"silver":870000
+    ,"time":"5d 07:09:13"
+  },
+  {
+     "building":10
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":3910000
+    ,"iron":2360000
+    ,"silver":1180000
+    ,"time":"6d 08:35:04"
+  },
+  {
+     "building":10
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":4920000
+    ,"iron":2360000
+    ,"silver":1180000
+    ,"time":"7d 10:00:55"
+  },
+  {
+     "building":10
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":10
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":2
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":109
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:43"
+  },
+  {
+     "building":11
+    ,"level":3
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":153
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:24"
+  },
+  {
+     "building":11
+    ,"level":4
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":229
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:06:08"
+  },
+  {
+     "building":11
+    ,"level":5
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":364
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:24"
+  },
+  {
+     "building":11
+    ,"level":6
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":612
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:13:48"
+  },
+  {
+     "building":11
+    ,"level":7
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":1100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:21:35"
+  },
+  {
+     "building":11
+    ,"level":8
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":2000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:34:32"
+  },
+  {
+     "building":11
+    ,"level":9
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":3800
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:48:23"
+  },
+  {
+     "building":11
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":7100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:00:27"
+  },
+  {
+     "building":11
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":14000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:31:28"
+  },
+  {
+     "building":11
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":24000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:16:05"
+  },
+  {
+     "building":11
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":40000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:19:40"
+  },
+  {
+     "building":11
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":63000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"4:49:23"
+  },
+  {
+     "building":11
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":91000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"6:55:16"
+  },
+  {
+     "building":11
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":122000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"8:39:06"
+  },
+  {
+     "building":11
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":143000
+    ,"iron":0
+    ,"silver":595
+    ,"time":"10:48:53"
+  },
+  {
+     "building":11
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":162000
+    ,"iron":0
+    ,"silver":1600
+    ,"time":"13:31:06"
+  },
+  {
+     "building":11
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":179000
+    ,"iron":0
+    ,"silver":3300
+    ,"time":"16:53:52"
+  },
+  {
+     "building":11
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":186000
+    ,"iron":0
+    ,"silver":6200
+    ,"time":"21:07:22"
+  },
+  {
+     "building":11
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":174000
+    ,"iron":0
+    ,"silver":11000
+    ,"time":"1d 01:20:49"
+  },
+  {
+     "building":11
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":124000
+    ,"iron":0
+    ,"silver":19000
+    ,"time":"1d 06:25:00"
+  },
+  {
+     "building":11
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":139000
+    ,"iron":0
+    ,"silver":24000
+    ,"time":"1d 12:30:00"
+  },
+  {
+     "building":11
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":158000
+    ,"iron":0
+    ,"silver":31000
+    ,"time":"1d 19:48:00"
+  },
+  {
+     "building":11
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":181000
+    ,"iron":0
+    ,"silver":41000
+    ,"time":"2d 04:33:36"
+  },
+  {
+     "building":11
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":209000
+    ,"iron":0
+    ,"silver":53000
+    ,"time":"2d 15:04:20"
+  },
+  {
+     "building":11
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":244000
+    ,"iron":0
+    ,"silver":67000
+    ,"time":"3d 03:41:11"
+  },
+  {
+     "building":11
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":285000
+    ,"iron":0
+    ,"silver":86000
+    ,"time":"3d 18:49:27"
+  },
+  {
+     "building":11
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":360000
+    ,"iron":0
+    ,"silver":108000
+    ,"time":"4d 12:59:20"
+  },
+  {
+     "building":11
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":454000
+    ,"iron":0
+    ,"silver":137000
+    ,"time":"5d 10:47:10"
+  },
+  {
+     "building":11
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":548000
+    ,"iron":0
+    ,"silver":138000
+    ,"time":"6d 08:35:03"
+  },
+  {
+     "building":11
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":0
+    ,"wood":642000
+    ,"iron":0
+    ,"silver":139000
+    ,"time":"7d 06:22:55"
+  },
+  {
+     "building":11
+    ,"level":33
+    ,"needs":[{"k":5, "v":33}]
+    ,"food":0
+    ,"wood":736000
+    ,"iron":0
+    ,"silver":140000
+    ,"time":"8d 04:10:47"
+  },
+  {
+     "building":11
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":11
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":0
+    ,"wood":321
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:15"
+  },
+  {
+     "building":12
+    ,"level":3
+    ,"needs":[{"k":7, "v":3}]
+    ,"food":0
+    ,"wood":481
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:32"
+  },
+  {
+     "building":12
+    ,"level":4
+    ,"needs":[{"k":7, "v":4}]
+    ,"food":0
+    ,"wood":769
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:10"
+  },
+  {
+     "building":12
+    ,"level":5
+    ,"needs":[{"k":7, "v":5}]
+    ,"food":0
+    ,"wood":1300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:04:21"
+  },
+  {
+     "building":12
+    ,"level":6
+    ,"needs":[{"k":7, "v":6}]
+    ,"food":0
+    ,"wood":2400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:08:47"
+  },
+  {
+     "building":12
+    ,"level":7
+    ,"needs":[{"k":7, "v":7}]
+    ,"food":0
+    ,"wood":4500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:19:47"
+  },
+  {
+     "building":12
+    ,"level":8
+    ,"needs":[{"k":7, "v":8}]
+    ,"food":0
+    ,"wood":8900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:31:40"
+  },
+  {
+     "building":12
+    ,"level":9
+    ,"needs":[{"k":7, "v":9}]
+    ,"food":0
+    ,"wood":18000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:44:20"
+  },
+  {
+     "building":12
+    ,"level":10
+    ,"needs":[{"k":7, "v":10}]
+    ,"food":0
+    ,"wood":36000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:55:26"
+  },
+  {
+     "building":12
+    ,"level":11
+    ,"needs":[{"k":7, "v":11}]
+    ,"food":0
+    ,"wood":69000
+    ,"iron":726
+    ,"silver":0
+    ,"time":"1:09:17"
+  },
+  {
+     "building":12
+    ,"level":12
+    ,"needs":[{"k":7, "v":12}]
+    ,"food":0
+    ,"wood":125000
+    ,"iron":2800
+    ,"silver":0
+    ,"time":"1:26:37"
+  },
+  {
+     "building":12
+    ,"level":13
+    ,"needs":[{"k":7, "v":13}]
+    ,"food":0
+    ,"wood":211000
+    ,"iron":7500
+    ,"silver":0
+    ,"time":"1:48:16"
+  },
+  {
+     "building":12
+    ,"level":14
+    ,"needs":[{"k":7, "v":14}]
+    ,"food":0
+    ,"wood":332000
+    ,"iron":17000
+    ,"silver":0
+    ,"time":"2:15:20"
+  },
+  {
+     "building":12
+    ,"level":15
+    ,"needs":[{"k":7, "v":15}]
+    ,"food":0
+    ,"wood":482000
+    ,"iron":32000
+    ,"silver":0
+    ,"time":"2:48:30"
+  },
+  {
+     "building":12
+    ,"level":16
+    ,"needs":[{"k":7, "v":16}]
+    ,"food":0
+    ,"wood":644000
+    ,"iron":55000
+    ,"silver":0
+    ,"time":"3:31:29"
+  },
+  {
+     "building":12
+    ,"level":17
+    ,"needs":[{"k":7, "v":17}]
+    ,"food":0
+    ,"wood":745000
+    ,"iron":87000
+    ,"silver":3100
+    ,"time":"4:24:21"
+  },
+  {
+     "building":12
+    ,"level":18
+    ,"needs":[{"k":7, "v":18}]
+    ,"food":0
+    ,"wood":838000
+    ,"iron":134000
+    ,"silver":8400
+    ,"time":"5:30:27"
+  },
+  {
+     "building":12
+    ,"level":19
+    ,"needs":[{"k":7, "v":19}]
+    ,"food":0
+    ,"wood":905000
+    ,"iron":204000
+    ,"silver":17000
+    ,"time":"6:53:03"
+  },
+  {
+     "building":12
+    ,"level":20
+    ,"needs":[{"k":7, "v":20}]
+    ,"food":0
+    ,"wood":916000
+    ,"iron":306000
+    ,"silver":31000
+    ,"time":"8:36:20"
+  },
+  {
+     "building":12
+    ,"level":21
+    ,"needs":[{"k":7, "v":21}]
+    ,"food":0
+    ,"wood":824000
+    ,"iron":454000
+    ,"silver":52000
+    ,"time":"10:19:35"
+  },
+  {
+     "building":12
+    ,"level":22
+    ,"needs":[{"k":7, "v":22}]
+    ,"food":0
+    ,"wood":557000
+    ,"iron":668000
+    ,"silver":104000
+    ,"time":"12:23:30"
+  },
+  {
+     "building":12
+    ,"level":23
+    ,"needs":[{"k":7, "v":23}]
+    ,"food":0
+    ,"wood":751000
+    ,"iron":826000
+    ,"silver":132000
+    ,"time":"14:52:12"
+  },
+  {
+     "building":12
+    ,"level":24
+    ,"needs":[{"k":7, "v":24}]
+    ,"food":0
+    ,"wood":1020000
+    ,"iron":1010000
+    ,"silver":203000
+    ,"time":"17:50:40"
+  },
+  {
+     "building":12
+    ,"level":25
+    ,"needs":[{"k":7, "v":25}]
+    ,"food":0
+    ,"wood":1370000
+    ,"iron":1230000
+    ,"silver":308000
+    ,"time":"21:24:48"
+  },
+  {
+     "building":12
+    ,"level":26
+    ,"needs":[{"k":7, "v":26}]
+    ,"food":0
+    ,"wood":1850000
+    ,"iron":1480000
+    ,"silver":462000
+    ,"time":"1d 01:41:44"
+  },
+  {
+     "building":12
+    ,"level":27
+    ,"needs":[{"k":7, "v":27}]
+    ,"food":0
+    ,"wood":2500000
+    ,"iron":1750000
+    ,"silver":690000
+    ,"time":"1d 06:50:07"
+  },
+  {
+     "building":12
+    ,"level":28
+    ,"needs":[{"k":7, "v":28}]
+    ,"food":0
+    ,"wood":3370000
+    ,"iron":2020000
+    ,"silver":1010000
+    ,"time":"1d 13:00:07"
+  },
+  {
+     "building":12
+    ,"level":29
+    ,"needs":[{"k":7, "v":29}]
+    ,"food":0
+    ,"wood":4550000
+    ,"iron":2740000
+    ,"silver":1370000
+    ,"time":"1d 20:24:10"
+  },
+  {
+     "building":12
+    ,"level":30
+    ,"needs":[{"k":7, "v":30}]
+    ,"food":0
+    ,"wood":6140000
+    ,"iron":3700000
+    ,"silver":1850000
+    ,"time":"2d 05:17:00"
+  },
+  {
+     "building":12
+    ,"level":31
+    ,"needs":[{"k":7, "v":31}]
+    ,"food":0
+    ,"wood":7730000
+    ,"iron":3700000
+    ,"silver":1850000
+    ,"time":"2d 14:09:50"
+  },
+  {
+     "building":12
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":12
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":2
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":95
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:37"
+  },
+  {
+     "building":13
+    ,"level":3
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":134
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:06"
+  },
+  {
+     "building":13
+    ,"level":4
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":200
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:05:23"
+  },
+  {
+     "building":13
+    ,"level":5
+    ,"needs":[{"k":5, "v":1}]
+    ,"food":318
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:08:13"
+  },
+  {
+     "building":13
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":535
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:12:06"
+  },
+  {
+     "building":13
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":951
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:19:00"
+  },
+  {
+     "building":13
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":1800
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:30:01"
+  },
+  {
+     "building":13
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":3300
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:42:19"
+  },
+  {
+     "building":13
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":6200
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:53:01"
+  },
+  {
+     "building":13
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":11000
+    ,"iron":118
+    ,"silver":0
+    ,"time":"1:20:14"
+  },
+  {
+     "building":13
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":19000
+    ,"wood":0
+    ,"iron":420
+    ,"silver":0
+    ,"time":"1:59:13"
+  },
+  {
+     "building":13
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":30000
+    ,"wood":0
+    ,"iron":1100
+    ,"silver":0
+    ,"time":"2:54:46"
+  },
+  {
+     "building":13
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":44000
+    ,"wood":0
+    ,"iron":2200
+    ,"silver":0
+    ,"time":"4:13:39"
+  },
+  {
+     "building":13
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":60000
+    ,"wood":0
+    ,"iron":4000
+    ,"silver":0
+    ,"time":"6:03:25"
+  },
+  {
+     "building":13
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":75000
+    ,"wood":0
+    ,"iron":6400
+    ,"silver":0
+    ,"time":"7:34:19"
+  },
+  {
+     "building":13
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":81000
+    ,"wood":0
+    ,"iron":9400
+    ,"silver":337
+    ,"time":"9:28:36"
+  },
+  {
+     "building":13
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":85000
+    ,"wood":0
+    ,"iron":14000
+    ,"silver":850
+    ,"time":"11:50:08"
+  },
+  {
+     "building":13
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":86000
+    ,"wood":0
+    ,"iron":19000
+    ,"silver":1600
+    ,"time":"14:47:34"
+  },
+  {
+     "building":13
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":81000
+    ,"wood":0
+    ,"iron":27000
+    ,"silver":2700
+    ,"time":"18:29:02"
+  },
+  {
+     "building":13
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":68000
+    ,"wood":0
+    ,"iron":38000
+    ,"silver":4300
+    ,"time":"22:11:16"
+  },
+  {
+     "building":13
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":43000
+    ,"wood":0
+    ,"iron":52000
+    ,"silver":6500
+    ,"time":"1d 02:37:13"
+  },
+  {
+     "building":13
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":55000
+    ,"wood":0
+    ,"iron":60000
+    ,"silver":9600
+    ,"time":"1d 07:56:38"
+  },
+  {
+     "building":13
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":69000
+    ,"wood":0
+    ,"iron":69000
+    ,"silver":14000
+    ,"time":"1d 14:19:38"
+  },
+  {
+     "building":13
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":87000
+    ,"wood":0
+    ,"iron":78000
+    ,"silver":20000
+    ,"time":"1d 21:59:24"
+  },
+  {
+     "building":13
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":110000
+    ,"wood":0
+    ,"iron":88000
+    ,"silver":27000
+    ,"time":"2d 07:11:27"
+  },
+  {
+     "building":13
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":139000
+    ,"wood":0
+    ,"iron":97000
+    ,"silver":38000
+    ,"time":"2d 18:16:53"
+  },
+  {
+     "building":13
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":175000
+    ,"wood":0
+    ,"iron":105000
+    ,"silver":53000
+    ,"time":"3d 07:29:17"
+  },
+  {
+     "building":13
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":221000
+    ,"wood":0
+    ,"iron":132000
+    ,"silver":67000
+    ,"time":"3d 23:22:13"
+  },
+  {
+     "building":13
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":278000
+    ,"wood":0
+    ,"iron":167000
+    ,"silver":84000
+    ,"time":"4d 18:26:45"
+  },
+  {
+     "building":13
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":335000
+    ,"wood":0
+    ,"iron":168000
+    ,"silver":84000
+    ,"time":"5d 13:31:20"
+  },
+  {
+     "building":13
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":392000
+    ,"wood":0
+    ,"iron":169000
+    ,"silver":84000
+    ,"time":"6d 08:35:53"
+  },
+  {
+     "building":13
+    ,"level":33
+    ,"needs":[{"k":5, "v":33}]
+    ,"food":449000
+    ,"wood":0
+    ,"iron":170000
+    ,"silver":84000
+    ,"time":"7d 03:40:28"
+  },
+  {
+     "building":13
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":13
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":0
+    ,"wood":208
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:07"
+  },
+  {
+     "building":14
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":0
+    ,"wood":437
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:58"
+  },
+  {
+     "building":14
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":699
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:30"
+  },
+  {
+     "building":14
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":0
+    ,"wood":1200
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:16:39"
+  },
+  {
+     "building":14
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":2100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:28:32"
+  },
+  {
+     "building":14
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":4100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:53:30"
+  },
+  {
+     "building":14
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":8100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:26:24"
+  },
+  {
+     "building":14
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":16000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:00:57"
+  },
+  {
+     "building":14
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":33000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:31:11"
+  },
+  {
+     "building":14
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":63000
+    ,"iron":660
+    ,"silver":0
+    ,"time":"3:27:56"
+  },
+  {
+     "building":14
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":114000
+    ,"iron":2500
+    ,"silver":0
+    ,"time":"4:43:33"
+  },
+  {
+     "building":14
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":192000
+    ,"iron":6800
+    ,"silver":0
+    ,"time":"6:23:59"
+  },
+  {
+     "building":14
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":302000
+    ,"iron":15000
+    ,"silver":0
+    ,"time":"8:36:47"
+  },
+  {
+     "building":14
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":438000
+    ,"iron":29000
+    ,"silver":0
+    ,"time":"11:32:08"
+  },
+  {
+     "building":14
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":585000
+    ,"iron":50000
+    ,"silver":0
+    ,"time":"14:25:11"
+  },
+  {
+     "building":14
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":677000
+    ,"iron":79000
+    ,"silver":2800
+    ,"time":"18:01:29"
+  },
+  {
+     "building":14
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":761000
+    ,"iron":122000
+    ,"silver":7700
+    ,"time":"22:31:51"
+  },
+  {
+     "building":14
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":822000
+    ,"iron":185000
+    ,"silver":15000
+    ,"time":"1d 04:09:49"
+  },
+  {
+     "building":14
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":833000
+    ,"iron":278000
+    ,"silver":28000
+    ,"time":"1d 11:12:15"
+  },
+  {
+     "building":14
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":749000
+    ,"iron":412000
+    ,"silver":47000
+    ,"time":"1d 18:14:43"
+  },
+  {
+     "building":14
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":506000
+    ,"iron":608000
+    ,"silver":76000
+    ,"time":"2d 02:41:41"
+  },
+  {
+     "building":14
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":683000
+    ,"iron":752000
+    ,"silver":120000
+    ,"time":"2d 12:50:00"
+  },
+  {
+     "building":14
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":922000
+    ,"iron":922000
+    ,"silver":185000
+    ,"time":"3d 01:00:00"
+  },
+  {
+     "building":14
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":1250000
+    ,"iron":1120000
+    ,"silver":280000
+    ,"time":"3d 15:36:00"
+  },
+  {
+     "building":14
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":1680000
+    ,"iron":1340000
+    ,"silver":420000
+    ,"time":"4d 09:07:13"
+  },
+  {
+     "building":14
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":2270000
+    ,"iron":1590000
+    ,"silver":625000
+    ,"time":"5d 06:08:40"
+  },
+  {
+     "building":14
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":3070000
+    ,"iron":1840000
+    ,"silver":920000
+    ,"time":"6d 07:22:24"
+  },
+  {
+     "building":14
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":4140000
+    ,"iron":2480000
+    ,"silver":1240000
+    ,"time":"7d 13:38:52"
+  },
+  {
+     "building":14
+    ,"level":30
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":31
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":14
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":2
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":350
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:16"
+  },
+  {
+     "building":15
+    ,"level":3
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":525
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:36"
+  },
+  {
+     "building":15
+    ,"level":4
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":839
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:24"
+  },
+  {
+     "building":15
+    ,"level":5
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":1400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:04:48"
+  },
+  {
+     "building":15
+    ,"level":6
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":2600
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:35"
+  },
+  {
+     "building":15
+    ,"level":7
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":4900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:21:36"
+  },
+  {
+     "building":15
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":9800
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:34:32"
+  },
+  {
+     "building":15
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":20000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:48:23"
+  },
+  {
+     "building":15
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":39000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:00:27"
+  },
+  {
+     "building":15
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":75000
+    ,"iron":792
+    ,"silver":0
+    ,"time":"1:15:36"
+  },
+  {
+     "building":15
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":137000
+    ,"iron":3000
+    ,"silver":0
+    ,"time":"1:34:30"
+  },
+  {
+     "building":15
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":231000
+    ,"iron":8100
+    ,"silver":0
+    ,"time":"1:58:08"
+  },
+  {
+     "building":15
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":362000
+    ,"iron":18000
+    ,"silver":0
+    ,"time":"2:27:39"
+  },
+  {
+     "building":15
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":526000
+    ,"iron":35000
+    ,"silver":0
+    ,"time":"3:04:33"
+  },
+  {
+     "building":15
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":702000
+    ,"iron":60000
+    ,"silver":0
+    ,"time":"3:50:42"
+  },
+  {
+     "building":15
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":812000
+    ,"iron":95000
+    ,"silver":3400
+    ,"time":"4:48:22"
+  },
+  {
+     "building":15
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":914000
+    ,"iron":146000
+    ,"silver":9200
+    ,"time":"6:00:28"
+  },
+  {
+     "building":15
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":987000
+    ,"iron":222000
+    ,"silver":19000
+    ,"time":"7:30:36"
+  },
+  {
+     "building":15
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":999000
+    ,"iron":334000
+    ,"silver":33000
+    ,"time":"9:23:16"
+  },
+  {
+     "building":15
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":899000
+    ,"iron":496000
+    ,"silver":57000
+    ,"time":"11:15:55"
+  },
+  {
+     "building":15
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":607000
+    ,"iron":728000
+    ,"silver":91000
+    ,"time":"13:31:05"
+  },
+  {
+     "building":15
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":819000
+    ,"iron":902000
+    ,"silver":144000
+    ,"time":"16:13:20"
+  },
+  {
+     "building":15
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":1110000
+    ,"iron":1110000
+    ,"silver":222000
+    ,"time":"19:28:00"
+  },
+  {
+     "building":15
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":1500000
+    ,"iron":1340000
+    ,"silver":336000
+    ,"time":"23:21:36"
+  },
+  {
+     "building":15
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":2020000
+    ,"iron":1610000
+    ,"silver":505000
+    ,"time":"1d 04:01:54"
+  },
+  {
+     "building":15
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":2730000
+    ,"iron":1910000
+    ,"silver":750000
+    ,"time":"1d 09:38:17"
+  },
+  {
+     "building":15
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":4090000
+    ,"iron":2860000
+    ,"silver":1130000
+    ,"time":"1d 16:21:58"
+  },
+  {
+     "building":15
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":4960000
+    ,"iron":2980000
+    ,"silver":1490000
+    ,"time":"2d 00:26:20"
+  },
+  {
+     "building":15
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":6700000
+    ,"iron":4020000
+    ,"silver":2010000
+    ,"time":"2d 10:07:38"
+  },
+  {
+     "building":15
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":8440000
+    ,"iron":4020000
+    ,"silver":2010000
+    ,"time":"2d 19:48:55"
+  },
+  {
+     "building":15
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":15
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":2
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":525
+    ,"wood":874
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:07"
+  },
+  {
+     "building":16
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":787
+    ,"wood":1300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:23"
+  },
+  {
+     "building":16
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":1300
+    ,"wood":2100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:35"
+  },
+  {
+     "building":16
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":2100
+    ,"wood":3600
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:19:12"
+  },
+  {
+     "building":16
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":3900
+    ,"wood":6400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:38:23"
+  },
+  {
+     "building":16
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":7300
+    ,"wood":12000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:26:25"
+  },
+  {
+     "building":16
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":15000
+    ,"wood":24000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:18:29"
+  },
+  {
+     "building":16
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":29000
+    ,"wood":49000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:13:37"
+  },
+  {
+     "building":16
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":59000
+    ,"wood":98000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"4:02:06"
+  },
+  {
+     "building":16
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":113000
+    ,"wood":189000
+    ,"iron":2000
+    ,"silver":0
+    ,"time":"4:56:57"
+  },
+  {
+     "building":16
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":205000
+    ,"wood":341000
+    ,"iron":7600
+    ,"silver":0
+    ,"time":"6:04:24"
+  },
+  {
+     "building":16
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":346000
+    ,"wood":576000
+    ,"iron":20000
+    ,"silver":0
+    ,"time":"7:26:16"
+  },
+  {
+     "building":16
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":543000
+    ,"wood":905000
+    ,"iron":45000
+    ,"silver":0
+    ,"time":"9:06:28"
+  },
+  {
+     "building":16
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":789000
+    ,"wood":1320000
+    ,"iron":88000
+    ,"silver":0
+    ,"time":"11:09:14"
+  },
+  {
+     "building":16
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":1090000
+    ,"wood":1760000
+    ,"iron":150000
+    ,"silver":0
+    ,"time":"13:47:43"
+  },
+  {
+     "building":16
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":1410000
+    ,"wood":2030000
+    ,"iron":238000
+    ,"silver":8500
+    ,"time":"17:01:34"
+  },
+  {
+     "building":16
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":1810000
+    ,"wood":2290000
+    ,"iron":366000
+    ,"silver":23000
+    ,"time":"20:58:29"
+  },
+  {
+     "building":16
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":2330000
+    ,"wood":2470000
+    ,"iron":556000
+    ,"silver":46000
+    ,"time":"1d 01:52:22"
+  },
+  {
+     "building":16
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":3000000
+    ,"wood":2500000
+    ,"iron":834000
+    ,"silver":84000
+    ,"time":"1d 07:55:51"
+  },
+  {
+     "building":16
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":3850000
+    ,"wood":2250000
+    ,"iron":1240000
+    ,"silver":141000
+    ,"time":"1d 13:48:57"
+  },
+  {
+     "building":16
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":4920000
+    ,"wood":1520000
+    ,"iron":1820000
+    ,"silver":228000
+    ,"time":"1d 20:45:38"
+  },
+  {
+     "building":16
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":6520000
+    ,"wood":2050000
+    ,"iron":2260000
+    ,"silver":359000
+    ,"time":"2d 05:28:15"
+  },
+  {
+     "building":16
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":8630000
+    ,"wood":2770000
+    ,"iron":2780000
+    ,"silver":555000
+    ,"time":"2d 15:51:44"
+  },
+  {
+     "building":16
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":11500000
+    ,"wood":3740000
+    ,"iron":3360000
+    ,"silver":840000
+    ,"time":"3d 04:23:57"
+  },
+  {
+     "building":16
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":15200000
+    ,"wood":5040000
+    ,"iron":4040000
+    ,"silver":1260000
+    ,"time":"3d 19:13:36"
+  },
+  {
+     "building":16
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":20500000
+    ,"wood":6810000
+    ,"iron":4780000
+    ,"silver":1880000
+    ,"time":"4d 13:26:52"
+  },
+  {
+     "building":16
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":27600000
+    ,"wood":9190000
+    ,"iron":5520000
+    ,"silver":2760000
+    ,"time":"5d 11:15:17"
+  },
+  {
+     "building":16
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":37200000
+    ,"wood":12400000
+    ,"iron":7440000
+    ,"silver":3720000
+    ,"time":"6d 13:26:50"
+  },
+  {
+     "building":16
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":50200000
+    ,"wood":16800000
+    ,"iron":10040000
+    ,"silver":5050000
+    ,"time":"7d 20:55:10"
+  },
+  {
+     "building":16
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":67800000
+    ,"wood":22600000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"9d 10:43:37"
+  },
+  {
+     "building":16
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":67800000
+    ,"wood":28400000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"11d 00:32:02"
+  },
+  {
+     "building":16
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":16
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":2
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":137
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:52"
+  },
+  {
+     "building":17
+    ,"level":3
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":191
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:59"
+  },
+  {
+     "building":17
+    ,"level":4
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":286
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:07:39"
+  },
+  {
+     "building":17
+    ,"level":5
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":455
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:11:44"
+  },
+  {
+     "building":17
+    ,"level":6
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":765
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:17:05"
+  },
+  {
+     "building":17
+    ,"level":7
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":1400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:26:59"
+  },
+  {
+     "building":17
+    ,"level":8
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":2500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:43:11"
+  },
+  {
+     "building":17
+    ,"level":9
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":4800
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:00:27"
+  },
+  {
+     "building":17
+    ,"level":10
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":8900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:15:35"
+  },
+  {
+     "building":17
+    ,"level":11
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":16000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:54:19"
+  },
+  {
+     "building":17
+    ,"level":12
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":16000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:50:05"
+  },
+  {
+     "building":17
+    ,"level":13
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":43000
+    ,"iron":1500
+    ,"silver":0
+    ,"time":"4:09:32"
+  },
+  {
+     "building":17
+    ,"level":14
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":63000
+    ,"iron":3200
+    ,"silver":0
+    ,"time":"6:01:44"
+  },
+  {
+     "building":17
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":86000
+    ,"iron":5700
+    ,"silver":0
+    ,"time":"8:39:05"
+  },
+  {
+     "building":17
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":107000
+    ,"iron":9200
+    ,"silver":0
+    ,"time":"10:48:52"
+  },
+  {
+     "building":17
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":122000
+    ,"iron":14000
+    ,"silver":0
+    ,"time":"13:31:05"
+  },
+  {
+     "building":17
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":135000
+    ,"iron":22000
+    ,"silver":0
+    ,"time":"16:53:52"
+  },
+  {
+     "building":17
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":145000
+    ,"iron":33000
+    ,"silver":0
+    ,"time":"21:07:21"
+  },
+  {
+     "building":17
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":146000
+    ,"iron":48000
+    ,"silver":0
+    ,"time":"1d 02:24:12"
+  },
+  {
+     "building":17
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":131000
+    ,"iron":72000
+    ,"silver":0
+    ,"time":"1d 07:41:03"
+  },
+  {
+     "building":17
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":88000
+    ,"iron":106000
+    ,"silver":0
+    ,"time":"1d 14:01:14"
+  },
+  {
+     "building":17
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":120000
+    ,"iron":132000
+    ,"silver":0
+    ,"time":"1d 21:37:30"
+  },
+  {
+     "building":17
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":164000
+    ,"iron":164000
+    ,"silver":0
+    ,"time":"2d 06:45:00"
+  },
+  {
+     "building":17
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":226000
+    ,"iron":204000
+    ,"silver":0
+    ,"time":"2d 17:42:00"
+  },
+  {
+     "building":17
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":313000
+    ,"iron":252000
+    ,"silver":0
+    ,"time":"3d 06:50:25"
+  },
+  {
+     "building":17
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":439000
+    ,"iron":308000
+    ,"silver":0
+    ,"time":"3d 22:36:30"
+  },
+  {
+     "building":17
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":624000
+    ,"iron":374000
+    ,"silver":0
+    ,"time":"4d 17:31:49"
+  },
+  {
+     "building":17
+    ,"level":29
+    ,"needs":[]
+    ,"food":0
+    ,"wood":787000
+    ,"iron":472000
+    ,"silver":0
+    ,"time":"5d 16:14:08"
+  },
+  {
+     "building":17
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":993000
+    ,"iron":596000
+    ,"silver":0
+    ,"time":"6d 19:29:00"
+  },
+  {
+     "building":17
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":1200000
+    ,"iron":597000
+    ,"silver":0
+    ,"time":"7d 22:43:51"
+  },
+  {
+     "building":17
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":0
+    ,"wood":1410000
+    ,"iron":598000
+    ,"silver":0
+    ,"time":"9d 01:58:41"
+  },
+  {
+     "building":17
+    ,"level":33
+    ,"needs":[{"k":5, "v":33}]
+    ,"food":0
+    ,"wood":1610000
+    ,"iron":599000
+    ,"silver":0
+    ,"time":"10d 05:13:34"
+  },
+  {
+     "building":17
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":17
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":525
+    ,"wood":874
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:07"
+  },
+  {
+     "building":18
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":787
+    ,"wood":1300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:23"
+  },
+  {
+     "building":18
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":1300
+    ,"wood":2100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:35"
+  },
+  {
+     "building":18
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":2100
+    ,"wood":3600
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:19:12"
+  },
+  {
+     "building":18
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":3900
+    ,"wood":6400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:38:23"
+  },
+  {
+     "building":18
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":7300
+    ,"wood":12000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:26:25"
+  },
+  {
+     "building":18
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":15000
+    ,"wood":24000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:18:29"
+  },
+  {
+     "building":18
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":29000
+    ,"wood":49000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:13:37"
+  },
+  {
+     "building":18
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":59000
+    ,"wood":98000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"4:02:06"
+  },
+  {
+     "building":18
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":113000
+    ,"wood":189000
+    ,"iron":2000
+    ,"silver":0
+    ,"time":"4:56:57"
+  },
+  {
+     "building":18
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":205000
+    ,"wood":341000
+    ,"iron":7600
+    ,"silver":0
+    ,"time":"6:04:24"
+  },
+  {
+     "building":18
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":346000
+    ,"wood":576000
+    ,"iron":20000
+    ,"silver":0
+    ,"time":"7:26:16"
+  },
+  {
+     "building":18
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":543000
+    ,"wood":905000
+    ,"iron":45000
+    ,"silver":0
+    ,"time":"9:06:28"
+  },
+  {
+     "building":18
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":789000
+    ,"wood":1320000
+    ,"iron":88000
+    ,"silver":0
+    ,"time":"11:09:14"
+  },
+  {
+     "building":18
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":1090000
+    ,"wood":1760000
+    ,"iron":150000
+    ,"silver":0
+    ,"time":"13:47:43"
+  },
+  {
+     "building":18
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":1410000
+    ,"wood":2030000
+    ,"iron":238000
+    ,"silver":8500
+    ,"time":"17:01:34"
+  },
+  {
+     "building":18
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":1810000
+    ,"wood":2290000
+    ,"iron":366000
+    ,"silver":23000
+    ,"time":"20:58:29"
+  },
+  {
+     "building":18
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":2330000
+    ,"wood":2470000
+    ,"iron":556000
+    ,"silver":46000
+    ,"time":"1d 01:52:22"
+  },
+  {
+     "building":18
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":3000000
+    ,"wood":2500000
+    ,"iron":834000
+    ,"silver":84000
+    ,"time":"1d 07:55:51"
+  },
+  {
+     "building":18
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":3850000
+    ,"wood":2250000
+    ,"iron":1240000
+    ,"silver":141000
+    ,"time":"1d 13:48:57"
+  },
+  {
+     "building":18
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":4920000
+    ,"wood":1520000
+    ,"iron":1820000
+    ,"silver":228000
+    ,"time":"1d 20:45:38"
+  },
+  {
+     "building":18
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":6520000
+    ,"wood":2050000
+    ,"iron":2260000
+    ,"silver":359000
+    ,"time":"2d 05:28:15"
+  },
+  {
+     "building":18
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":8630000
+    ,"wood":2770000
+    ,"iron":2780000
+    ,"silver":555000
+    ,"time":"2d 15:51:44"
+  },
+  {
+     "building":18
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":11500000
+    ,"wood":3740000
+    ,"iron":3360000
+    ,"silver":840000
+    ,"time":"3d 04:23:57"
+  },
+  {
+     "building":18
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":15200000
+    ,"wood":5040000
+    ,"iron":4040000
+    ,"silver":1260000
+    ,"time":"3d 19:13:36"
+  },
+  {
+     "building":18
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":20500000
+    ,"wood":6810000
+    ,"iron":4780000
+    ,"silver":1880000
+    ,"time":"4d 13:26:52"
+  },
+  {
+     "building":18
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":27600000
+    ,"wood":9190000
+    ,"iron":5520000
+    ,"silver":2760000
+    ,"time":"5d 11:15:17"
+  },
+  {
+     "building":18
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":37200000
+    ,"wood":12400000
+    ,"iron":7440000
+    ,"silver":3720000
+    ,"time":"6d 13:26:50"
+  },
+  {
+     "building":18
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":50200000
+    ,"wood":16800000
+    ,"iron":10040000
+    ,"silver":5050000
+    ,"time":"7d 20:55:10"
+  },
+  {
+     "building":18
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":67800000
+    ,"wood":22600000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"9d 10:43:37"
+  },
+  {
+     "building":18
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":67800000
+    ,"wood":28400000
+    ,"iron":13560000
+    ,"silver":6800000
+    ,"time":"11d 00:32:02"
+  },
+  {
+     "building":18
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":18
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":2
+    ,"needs":[{"k":6, "v":2}]
+    ,"food":0
+    ,"wood":525
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:24"
+  },
+  {
+     "building":19
+    ,"level":3
+    ,"needs":[{"k":6, "v":3}]
+    ,"food":0
+    ,"wood":787
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:53"
+  },
+  {
+     "building":19
+    ,"level":4
+    ,"needs":[{"k":6, "v":4}]
+    ,"food":0
+    ,"wood":1300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:03:35"
+  },
+  {
+     "building":19
+    ,"level":5
+    ,"needs":[{"k":6, "v":5}]
+    ,"food":0
+    ,"wood":2100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:07:11"
+  },
+  {
+     "building":19
+    ,"level":6
+    ,"needs":[{"k":6, "v":6}]
+    ,"food":0
+    ,"wood":3900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:14:24"
+  },
+  {
+     "building":19
+    ,"level":7
+    ,"needs":[{"k":6, "v":7}]
+    ,"food":0
+    ,"wood":7300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:32:23"
+  },
+  {
+     "building":19
+    ,"level":8
+    ,"needs":[{"k":6, "v":8}]
+    ,"food":0
+    ,"wood":15000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:51:50"
+  },
+  {
+     "building":19
+    ,"level":9
+    ,"needs":[{"k":6, "v":9}]
+    ,"food":0
+    ,"wood":29000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:12:34"
+  },
+  {
+     "building":19
+    ,"level":10
+    ,"needs":[{"k":6, "v":10}]
+    ,"food":0
+    ,"wood":59000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:30:43"
+  },
+  {
+     "building":19
+    ,"level":11
+    ,"needs":[{"k":6, "v":11}]
+    ,"food":0
+    ,"wood":113000
+    ,"iron":1200
+    ,"silver":0
+    ,"time":"1:53:23"
+  },
+  {
+     "building":19
+    ,"level":12
+    ,"needs":[{"k":6, "v":12}]
+    ,"food":0
+    ,"wood":205000
+    ,"iron":4500
+    ,"silver":0
+    ,"time":"2:21:44"
+  },
+  {
+     "building":19
+    ,"level":13
+    ,"needs":[{"k":6, "v":13}]
+    ,"food":0
+    ,"wood":346000
+    ,"iron":12000
+    ,"silver":0
+    ,"time":"2:56:28"
+  },
+  {
+     "building":19
+    ,"level":14
+    ,"needs":[{"k":6, "v":14}]
+    ,"food":0
+    ,"wood":543000
+    ,"iron":27000
+    ,"silver":0
+    ,"time":"3:41:28"
+  },
+  {
+     "building":19
+    ,"level":15
+    ,"needs":[{"k":6, "v":15}]
+    ,"food":0
+    ,"wood":789000
+    ,"iron":53000
+    ,"silver":0
+    ,"time":"4:36:50"
+  },
+  {
+     "building":19
+    ,"level":16
+    ,"needs":[{"k":6, "v":16}]
+    ,"food":0
+    ,"wood":1060000
+    ,"iron":90000
+    ,"silver":0
+    ,"time":"5:46:04"
+  },
+  {
+     "building":19
+    ,"level":17
+    ,"needs":[{"k":6, "v":17}]
+    ,"food":0
+    ,"wood":1220000
+    ,"iron":142000
+    ,"silver":5100
+    ,"time":"7:12:35"
+  },
+  {
+     "building":19
+    ,"level":18
+    ,"needs":[{"k":6, "v":18}]
+    ,"food":0
+    ,"wood":1370000
+    ,"iron":220000
+    ,"silver":14000
+    ,"time":"9:00:44"
+  },
+  {
+     "building":19
+    ,"level":19
+    ,"needs":[{"k":6, "v":19}]
+    ,"food":0
+    ,"wood":1480000
+    ,"iron":334000
+    ,"silver":28000
+    ,"time":"11:15:54"
+  },
+  {
+     "building":19
+    ,"level":20
+    ,"needs":[{"k":6, "v":20}]
+    ,"food":0
+    ,"wood":1500000
+    ,"iron":500000
+    ,"silver":50000
+    ,"time":"14:04:54"
+  },
+  {
+     "building":19
+    ,"level":21
+    ,"needs":[{"k":6, "v":21}]
+    ,"food":0
+    ,"wood":1350000
+    ,"iron":742000
+    ,"silver":85000
+    ,"time":"16:53:53"
+  },
+  {
+     "building":19
+    ,"level":22
+    ,"needs":[{"k":6, "v":22}]
+    ,"food":0
+    ,"wood":910000
+    ,"iron":1090000
+    ,"silver":137000
+    ,"time":"20:16:40"
+  },
+  {
+     "building":19
+    ,"level":23
+    ,"needs":[{"k":6, "v":23}]
+    ,"food":0
+    ,"wood":1230000
+    ,"iron":1350000
+    ,"silver":215000
+    ,"time":"1d 00:46:40"
+  },
+  {
+     "building":19
+    ,"level":24
+    ,"needs":[{"k":6, "v":24}]
+    ,"food":0
+    ,"wood":1660000
+    ,"iron":1660000
+    ,"silver":332000
+    ,"time":"1d 05:12:00"
+  },
+  {
+     "building":19
+    ,"level":25
+    ,"needs":[{"k":6, "v":25}]
+    ,"food":0
+    ,"wood":2240000
+    ,"iron":2020000
+    ,"silver":505000
+    ,"time":"1d 11:02:23"
+  },
+  {
+     "building":19
+    ,"level":26
+    ,"needs":[{"k":6, "v":26}]
+    ,"food":0
+    ,"wood":3030000
+    ,"iron":2420000
+    ,"silver":760000
+    ,"time":"1d 18:02:53"
+  },
+  {
+     "building":19
+    ,"level":27
+    ,"needs":[{"k":6, "v":27}]
+    ,"food":0
+    ,"wood":4090000
+    ,"iron":2860000
+    ,"silver":1130000
+    ,"time":"2d 02:27:27"
+  },
+  {
+     "building":19
+    ,"level":28
+    ,"needs":[{"k":6, "v":28}]
+    ,"food":0
+    ,"wood":5510000
+    ,"iron":3320000
+    ,"silver":1660000
+    ,"time":"2d 12:32:57"
+  },
+  {
+     "building":19
+    ,"level":29
+    ,"needs":[{"k":6, "v":29}]
+    ,"food":0
+    ,"wood":7440000
+    ,"iron":4480000
+    ,"silver":2240000
+    ,"time":"3d 00:39:33"
+  },
+  {
+     "building":19
+    ,"level":30
+    ,"needs":[{"k":6, "v":30}]
+    ,"food":0
+    ,"wood":10100000
+    ,"iron":6040000
+    ,"silver":3020000
+    ,"time":"3d 15:11:27"
+  },
+  {
+     "building":19
+    ,"level":31
+    ,"needs":[{"k":6, "v":31}]
+    ,"food":0
+    ,"wood":12760000
+    ,"iron":6040000
+    ,"silver":3020000
+    ,"time":"4d 05:43:22"
+  },
+  {
+     "building":19
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":19
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":2
+    ,"needs":[{"k":13, "v":2}]
+    ,"food":0
+    ,"wood":641
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:29"
+  },
+  {
+     "building":20
+    ,"level":3
+    ,"needs":[{"k":13, "v":3}]
+    ,"food":0
+    ,"wood":961
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:05"
+  },
+  {
+     "building":20
+    ,"level":4
+    ,"needs":[{"k":13, "v":4}]
+    ,"food":0
+    ,"wood":1500
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:04:21"
+  },
+  {
+     "building":20
+    ,"level":5
+    ,"needs":[{"k":13, "v":5}]
+    ,"food":0
+    ,"wood":2600
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:08:43"
+  },
+  {
+     "building":20
+    ,"level":6
+    ,"needs":[{"k":13, "v":6}]
+    ,"food":0
+    ,"wood":4700
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:17:36"
+  },
+  {
+     "building":20
+    ,"level":7
+    ,"needs":[{"k":13, "v":7}]
+    ,"food":0
+    ,"wood":8900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:39:35"
+  },
+  {
+     "building":20
+    ,"level":8
+    ,"needs":[{"k":13, "v":8}]
+    ,"food":0
+    ,"wood":18000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:03:21"
+  },
+  {
+     "building":20
+    ,"level":9
+    ,"needs":[{"k":13, "v":9}]
+    ,"food":0
+    ,"wood":36000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:28:42"
+  },
+  {
+     "building":20
+    ,"level":10
+    ,"needs":[{"k":13, "v":10}]
+    ,"food":0
+    ,"wood":72000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:50:53"
+  },
+  {
+     "building":20
+    ,"level":11
+    ,"needs":[{"k":13, "v":11}]
+    ,"food":0
+    ,"wood":138000
+    ,"iron":1500
+    ,"silver":0
+    ,"time":"2:18:35"
+  },
+  {
+     "building":20
+    ,"level":12
+    ,"needs":[{"k":13, "v":12}]
+    ,"food":0
+    ,"wood":250000
+    ,"iron":5600
+    ,"silver":0
+    ,"time":"2:53:15"
+  },
+  {
+     "building":20
+    ,"level":13
+    ,"needs":[{"k":13, "v":13}]
+    ,"food":0
+    ,"wood":422000
+    ,"iron":15000
+    ,"silver":0
+    ,"time":"3:36:33"
+  },
+  {
+     "building":20
+    ,"level":14
+    ,"needs":[{"k":13, "v":14}]
+    ,"food":0
+    ,"wood":664000
+    ,"iron":33000
+    ,"silver":0
+    ,"time":"4:30:41"
+  },
+  {
+     "building":20
+    ,"level":15
+    ,"needs":[{"k":13, "v":15}]
+    ,"food":0
+    ,"wood":964000
+    ,"iron":64000
+    ,"silver":0
+    ,"time":"5:38:22"
+  },
+  {
+     "building":20
+    ,"level":16
+    ,"needs":[{"k":13, "v":16}]
+    ,"food":0
+    ,"wood":1290000
+    ,"iron":110000
+    ,"silver":0
+    ,"time":"7:02:58"
+  },
+  {
+     "building":20
+    ,"level":17
+    ,"needs":[{"k":13, "v":17}]
+    ,"food":0
+    ,"wood":1490000
+    ,"iron":174000
+    ,"silver":6300
+    ,"time":"8:48:42"
+  },
+  {
+     "building":20
+    ,"level":18
+    ,"needs":[{"k":13, "v":18}]
+    ,"food":0
+    ,"wood":1240000
+    ,"iron":278000
+    ,"silver":23000
+    ,"time":"11:00:53"
+  },
+  {
+     "building":20
+    ,"level":19
+    ,"needs":[{"k":13, "v":19}]
+    ,"food":0
+    ,"wood":1810000
+    ,"iron":408000
+    ,"silver":34000
+    ,"time":"13:46:08"
+  },
+  {
+     "building":20
+    ,"level":20
+    ,"needs":[{"k":13, "v":20}]
+    ,"food":0
+    ,"wood":1840000
+    ,"iron":612000
+    ,"silver":62000
+    ,"time":"17:12:40"
+  },
+  {
+     "building":20
+    ,"level":21
+    ,"needs":[{"k":13, "v":21}]
+    ,"food":0
+    ,"wood":1650000
+    ,"iron":908000
+    ,"silver":103000
+    ,"time":"20:39:11"
+  },
+  {
+     "building":20
+    ,"level":22
+    ,"needs":[{"k":13, "v":22}]
+    ,"food":0
+    ,"wood":1120000
+    ,"iron":1340000
+    ,"silver":167000
+    ,"time":"1d 00:47:02"
+  },
+  {
+     "building":20
+    ,"level":23
+    ,"needs":[{"k":13, "v":23}]
+    ,"food":0
+    ,"wood":1510000
+    ,"iron":1650000
+    ,"silver":263000
+    ,"time":"1d 05:44:27"
+  },
+  {
+     "building":20
+    ,"level":24
+    ,"needs":[{"k":13, "v":24}]
+    ,"food":0
+    ,"wood":2030000
+    ,"iron":2040000
+    ,"silver":406000
+    ,"time":"1d 11:41:20"
+  },
+  {
+     "building":20
+    ,"level":25
+    ,"needs":[{"k":13, "v":25}]
+    ,"food":0
+    ,"wood":2740000
+    ,"iron":2480000
+    ,"silver":620000
+    ,"time":"1d 18:49:36"
+  },
+  {
+     "building":20
+    ,"level":26
+    ,"needs":[{"k":13, "v":26}]
+    ,"food":0
+    ,"wood":3700000
+    ,"iron":2960000
+    ,"silver":925000
+    ,"time":"2d 03:23:31"
+  },
+  {
+     "building":20
+    ,"level":27
+    ,"needs":[{"k":13, "v":27}]
+    ,"food":0
+    ,"wood":4990000
+    ,"iron":3500000
+    ,"silver":1380000
+    ,"time":"2d 13:40:12"
+  },
+  {
+     "building":20
+    ,"level":28
+    ,"needs":[{"k":13, "v":28}]
+    ,"food":0
+    ,"wood":6740000
+    ,"iron":4040000
+    ,"silver":2020000
+    ,"time":"3d 02:00:15"
+  },
+  {
+     "building":20
+    ,"level":29
+    ,"needs":[{"k":13, "v":29}]
+    ,"food":0
+    ,"wood":9090000
+    ,"iron":5460000
+    ,"silver":2730000
+    ,"time":"3d 16:48:20"
+  },
+  {
+     "building":20
+    ,"level":30
+    ,"needs":[{"k":13, "v":30}]
+    ,"food":0
+    ,"wood":12300000
+    ,"iron":7380000
+    ,"silver":3690000
+    ,"time":"4d 10:34:00"
+  },
+  {
+     "building":20
+    ,"level":31
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":20
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":0
+    ,"wood":2000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:38"
+  },
+  {
+     "building":21
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":0
+    ,"wood":3100
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:06:00"
+  },
+  {
+     "building":21
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":4900
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:14:00"
+  },
+  {
+     "building":21
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":0
+    ,"wood":8300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:28:00"
+  },
+  {
+     "building":21
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":15000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:56:00"
+  },
+  {
+     "building":21
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":29000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:06:00"
+  },
+  {
+     "building":21
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":57000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:21:36"
+  },
+  {
+     "building":21
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":114000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"4:42:14"
+  },
+  {
+     "building":21
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":228000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"5:52:51"
+  },
+  {
+     "building":21
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":439000
+    ,"iron":4600
+    ,"silver":0
+    ,"time":"7:21:05"
+  },
+  {
+     "building":21
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":795000
+    ,"iron":18000
+    ,"silver":0
+    ,"time":"9:11:22"
+  },
+  {
+     "building":21
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":1350000
+    ,"iron":47000
+    ,"silver":0
+    ,"time":"11:29:12"
+  },
+  {
+     "building":21
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":2110000
+    ,"iron":106000
+    ,"silver":0
+    ,"time":"14:21:20"
+  },
+  {
+     "building":21
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":3070000
+    ,"iron":206000
+    ,"silver":0
+    ,"time":"17:56:39"
+  },
+  {
+     "building":21
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":4100000
+    ,"iron":352000
+    ,"silver":0
+    ,"time":"22:25:50"
+  },
+  {
+     "building":21
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":4740000
+    ,"iron":554000
+    ,"silver":20000
+    ,"time":"1d 04:02:17"
+  },
+  {
+     "building":21
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":5330000
+    ,"iron":854000
+    ,"silver":54000
+    ,"time":"1d 11:02:53"
+  },
+  {
+     "building":21
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":5760000
+    ,"iron":1300000
+    ,"silver":108000
+    ,"time":"1d 19:48:37"
+  },
+  {
+     "building":21
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":5830000
+    ,"iron":1940000
+    ,"silver":195000
+    ,"time":"2d 06:45:45"
+  },
+  {
+     "building":21
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":5250000
+    ,"iron":2900000
+    ,"silver":328000
+    ,"time":"2d 17:42:55"
+  },
+  {
+     "building":21
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":3540000
+    ,"iron":4260000
+    ,"silver":535000
+    ,"time":"3d 06:51:30"
+  },
+  {
+     "building":21
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":4780000
+    ,"iron":5260000
+    ,"silver":840000
+    ,"time":"3d 22:37:47"
+  },
+  {
+     "building":21
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":6450000
+    ,"iron":6460000
+    ,"silver":1290000
+    ,"time":"4d 17:33:21"
+  },
+  {
+     "building":21
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":8710000
+    ,"iron":7840000
+    ,"silver":1960000
+    ,"time":"5d 16:16:02"
+  },
+  {
+     "building":21
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":11800000
+    ,"iron":9420000
+    ,"silver":2940000
+    ,"time":"6d 19:31:15"
+  },
+  {
+     "building":21
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":15900000
+    ,"iron":11120000
+    ,"silver":4370000
+    ,"time":"8d 04:13:28"
+  },
+  {
+     "building":21
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":21500000
+    ,"iron":12860000
+    ,"silver":6450000
+    ,"time":"9d 19:28:12"
+  },
+  {
+     "building":21
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":29000000
+    ,"iron":17360000
+    ,"silver":8700000
+    ,"time":"11d 18:33:50"
+  },
+  {
+     "building":21
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":39100000
+    ,"iron":23600000
+    ,"silver":11750000
+    ,"time":"14d 03:04:36"
+  },
+  {
+     "building":21
+    ,"level":31
+    ,"needs":[{"k":5, "v":31}]
+    ,"food":0
+    ,"wood":49200000
+    ,"iron":23600000
+    ,"silver":11750000
+    ,"time":"16d 11:35:22"
+  },
+  {
+     "building":21
+    ,"level":32
+    ,"needs":[{"k":5, "v":32}]
+    ,"food":0
+    ,"wood":59300000
+    ,"iron":23600000
+    ,"silver":11750000
+    ,"time":"16d 23:46:41"
+  },
+  {
+     "building":21
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":99700000
+    ,"iron":23600000
+    ,"silver":11750000
+    ,"time":"35d 05:14:29"
+  },
+  {
+     "building":21
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":21
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":1
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":2
+    ,"needs":[{"k":5, "v":2}]
+    ,"food":0
+    ,"wood":1300
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:01:03"
+  },
+  {
+     "building":22
+    ,"level":3
+    ,"needs":[{"k":5, "v":3}]
+    ,"food":0
+    ,"wood":2000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:02:14"
+  },
+  {
+     "building":22
+    ,"level":4
+    ,"needs":[{"k":5, "v":4}]
+    ,"food":0
+    ,"wood":3200
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:09:00"
+  },
+  {
+     "building":22
+    ,"level":5
+    ,"needs":[{"k":5, "v":5}]
+    ,"food":0
+    ,"wood":5400
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:18:00"
+  },
+  {
+     "building":22
+    ,"level":6
+    ,"needs":[{"k":5, "v":6}]
+    ,"food":0
+    ,"wood":9600
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:36:00"
+  },
+  {
+     "building":22
+    ,"level":7
+    ,"needs":[{"k":5, "v":7}]
+    ,"food":0
+    ,"wood":18000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"1:20:59"
+  },
+  {
+     "building":22
+    ,"level":8
+    ,"needs":[{"k":5, "v":8}]
+    ,"food":0
+    ,"wood":37000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"2:09:35"
+  },
+  {
+     "building":22
+    ,"level":9
+    ,"needs":[{"k":5, "v":9}]
+    ,"food":0
+    ,"wood":73000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:01:26"
+  },
+  {
+     "building":22
+    ,"level":10
+    ,"needs":[{"k":5, "v":10}]
+    ,"food":0
+    ,"wood":147000
+    ,"iron":0
+    ,"silver":0
+    ,"time":"3:46:48"
+  },
+  {
+     "building":22
+    ,"level":11
+    ,"needs":[{"k":5, "v":11}]
+    ,"food":0
+    ,"wood":283000
+    ,"iron":3000
+    ,"silver":0
+    ,"time":"4:43:33"
+  },
+  {
+     "building":22
+    ,"level":12
+    ,"needs":[{"k":5, "v":12}]
+    ,"food":0
+    ,"wood":511000
+    ,"iron":11000
+    ,"silver":0
+    ,"time":"5:54:26"
+  },
+  {
+     "building":22
+    ,"level":13
+    ,"needs":[{"k":5, "v":13}]
+    ,"food":0
+    ,"wood":863000
+    ,"iron":31000
+    ,"silver":0
+    ,"time":"7:22:57"
+  },
+  {
+     "building":22
+    ,"level":14
+    ,"needs":[{"k":5, "v":14}]
+    ,"food":0
+    ,"wood":1360000
+    ,"iron":68000
+    ,"silver":0
+    ,"time":"9:13:43"
+  },
+  {
+     "building":22
+    ,"level":15
+    ,"needs":[{"k":5, "v":15}]
+    ,"food":0
+    ,"wood":1980000
+    ,"iron":131000
+    ,"silver":0
+    ,"time":"11:32:09"
+  },
+  {
+     "building":22
+    ,"level":16
+    ,"needs":[{"k":5, "v":16}]
+    ,"food":0
+    ,"wood":2640000
+    ,"iron":226000
+    ,"silver":0
+    ,"time":"14:25:10"
+  },
+  {
+     "building":22
+    ,"level":17
+    ,"needs":[{"k":5, "v":17}]
+    ,"food":0
+    ,"wood":3050000
+    ,"iron":356000
+    ,"silver":13000
+    ,"time":"18:01:29"
+  },
+  {
+     "building":22
+    ,"level":18
+    ,"needs":[{"k":5, "v":18}]
+    ,"food":0
+    ,"wood":3430000
+    ,"iron":548000
+    ,"silver":34000
+    ,"time":"22:31:50"
+  },
+  {
+     "building":22
+    ,"level":19
+    ,"needs":[{"k":5, "v":19}]
+    ,"food":0
+    ,"wood":3700000
+    ,"iron":834000
+    ,"silver":70000
+    ,"time":"1d 04:09:49"
+  },
+  {
+     "building":22
+    ,"level":20
+    ,"needs":[{"k":5, "v":20}]
+    ,"food":0
+    ,"wood":3750000
+    ,"iron":1250000
+    ,"silver":125000
+    ,"time":"1d 11:12:15"
+  },
+  {
+     "building":22
+    ,"level":21
+    ,"needs":[{"k":5, "v":21}]
+    ,"food":0
+    ,"wood":3380000
+    ,"iron":1850000
+    ,"silver":211000
+    ,"time":"1d 18:14:44"
+  },
+  {
+     "building":22
+    ,"level":22
+    ,"needs":[{"k":5, "v":22}]
+    ,"food":0
+    ,"wood":2280000
+    ,"iron":2740000
+    ,"silver":342000
+    ,"time":"2d 02:41:40"
+  },
+  {
+     "building":22
+    ,"level":23
+    ,"needs":[{"k":5, "v":23}]
+    ,"food":0
+    ,"wood":3080000
+    ,"iron":3380000
+    ,"silver":540000
+    ,"time":"2d 12:50:00"
+  },
+  {
+     "building":22
+    ,"level":24
+    ,"needs":[{"k":5, "v":24}]
+    ,"food":0
+    ,"wood":4150000
+    ,"iron":4160000
+    ,"silver":830000
+    ,"time":"3d 01:00:00"
+  },
+  {
+     "building":22
+    ,"level":25
+    ,"needs":[{"k":5, "v":25}]
+    ,"food":0
+    ,"wood":5600000
+    ,"iron":5040000
+    ,"silver":1260000
+    ,"time":"3d 15:36:00"
+  },
+  {
+     "building":22
+    ,"level":26
+    ,"needs":[{"k":5, "v":26}]
+    ,"food":0
+    ,"wood":7560000
+    ,"iron":6060000
+    ,"silver":1890000
+    ,"time":"4d 09:07:13"
+  },
+  {
+     "building":22
+    ,"level":27
+    ,"needs":[{"k":5, "v":27}]
+    ,"food":0
+    ,"wood":10300000
+    ,"iron":7160000
+    ,"silver":2810000
+    ,"time":"5d 06:08:40"
+  },
+  {
+     "building":22
+    ,"level":28
+    ,"needs":[{"k":5, "v":28}]
+    ,"food":0
+    ,"wood":13800000
+    ,"iron":8280000
+    ,"silver":4140000
+    ,"time":"6d 07:22:24"
+  },
+  {
+     "building":22
+    ,"level":29
+    ,"needs":[{"k":5, "v":29}]
+    ,"food":0
+    ,"wood":18600000
+    ,"iron":11160000
+    ,"silver":5600000
+    ,"time":"7d 13:38:52"
+  },
+  {
+     "building":22
+    ,"level":30
+    ,"needs":[{"k":5, "v":30}]
+    ,"food":0
+    ,"wood":25100000
+    ,"iron":15060000
+    ,"silver":7550000
+    ,"time":"9d 01:58:40"
+  },
+  {
+     "building":22
+    ,"level":31
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":32
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":33
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":34
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":35
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":36
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":37
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":38
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":39
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  },
+  {
+     "building":22
+    ,"level":40
+    ,"needs":[]
+    ,"food":0
+    ,"wood":0
+    ,"iron":0
+    ,"silver":0
+    ,"time":"0:00:00"
+  }]

@@ -1,0 +1,80 @@
+[
+ {
+   "id": 1,
+   "rank": 1,
+   "rss": 1,
+   "rssAmount": 500000,
+   "packQty": 1,
+   "hasQty": 5,
+   "cost": 30940,
+   "reset": "1d",
+   "unlocks": 1,
+   "total": 2500000,
+   "coins": 154700
+ },
+ {
+   "id": 2,
+   "rank": 1,
+   "rss": 2,
+   "rssAmount": 500000,
+   "packQty": 1,
+   "hasQty": 5,
+   "cost": 15470,
+   "reset": "1d",
+   "unlocks": 1,
+   "total": 2500000,
+   "coins": 77350
+ },
+ {
+   "id": 3,
+   "rank": 2,
+   "rss": 3,
+   "rssAmount": 100000,
+   "packQty": 1,
+   "hasQty": 5,
+   "cost": 30300,
+   "reset": "1d",
+   "unlocks": 5,
+   "total": 500000,
+   "coins": 151500
+ },
+ {
+   "id": 4,
+   "rank": 1,
+   "rss": 3,
+   "rssAmount": 100000,
+   "packQty": 1,
+   "hasQty": 5,
+   "cost": 30300,
+   "reset": "1d",
+   "unlocks": 8,
+   "total": 500000,
+   "coins": 151500
+ },
+ {
+   "id": 5,
+   "rank": 2,
+   "rss": 4,
+   "rssAmount": 25000,
+   "packQty": 1,
+   "hasQty": 5,
+   "cost": 29580,
+   "reset": "1d",
+   "unlocks": 5,
+   "total": 125000,
+   "coins": 147900
+ },
+ {
+   "id": 6,
+   "rank": 1,
+   "rss": 4,
+   "rssAmount": 25000,
+   "packQty": 1,
+   "hasQty": 5,
+   "cost": 29580,
+   "reset": "1d",
+   "unlocks": 10,
+   "total": 125000,
+   "coins": 147900
+ }
+]
