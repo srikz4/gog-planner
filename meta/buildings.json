@@ -1,134 +1,178 @@
 [
- {
-   "id": 1,
-   "name": "Academy",
-   "level": 24,
-   "count": 1
- },
- {
-   "id": 2,
-   "name": "Airship Dock",
-   "level": 27,
-   "count": 1
- },
- {
-   "id": 3,
-   "name": "Artillery Foundry",
-   "level": 26,
-   "count": 1
- },
- {
-   "id": 4,
-   "name": "Barracks",
-   "level": 26,
-   "count": 1
- },
- {
-   "id": 5,
-   "name": "Castle",
-   "level": 27,
-   "count": 1
- },
- {
-   "id": 6,
-   "name": "Embassy",
-   "level": 27,
-   "count": 1
- },
- {
-   "id": 7,
-   "name": "Farm",
-   "level": 1,
-   "count": 1
- },
- {
-   "id": 8,
-   "name": "Forge",
-   "level": 27,
-   "count": 1
- },
- {
-   "id": 9,
-   "name": "Hall of War",
-   "level": 26,
-   "count": 1
- },
- {
-   "id": 10,
-   "name": "Hospital",
-   "level": 1,
-   "count": 1
- },
- {
-   "id": 11,
-   "name": "Iron Mine",
-   "level": 1,
-   "count": 1
- },
- {
-   "id": 12,
-   "name": "Lookout Tower",
-   "level": 27,
-   "count": 1
- },
- {
-   "id": 13,
-   "name": "Lumberyard",
-   "level": 1,
-   "count": 1
- },
- {
-   "id": 14,
-   "name": "Military Tent",
-   "level": 1,
-   "count": 1
- },
- {
-   "id": 15,
-   "name": "Munitions Exchange",
-   "level": 27,
-   "count": 1
- },
- {
-   "id": 16,
-   "name": "Shooting Range",
-   "level": 26,
-   "count": 1
- },
- {
-   "id": 17,
-   "name": "Silver Mine",
-   "level": 1,
-   "count": 1
- },
- {
-   "id": 18,
-   "name": "Stables",
-   "level": 26,
-   "count": 1
- },
- {
-   "id": 19,
-   "name": "Trade Station",
-   "level": 26,
-   "count": 1
- },
- {
-   "id": 20,
-   "name": "Trap Factory",
-   "level": 27,
-   "count": 1
- },
- {
-   "id": 21,
-   "name": "Wall",
-   "level": 26,
-   "count": 1
- },
- {
-   "id": 22,
-   "name": "Warehouse",
-   "level": 26,
-   "count": 1
- }
+  {
+    "id": 1,
+    "name": "Academy",
+    "level": 24,
+    "count": 1,
+    "rank": 1,
+    "shortname": "academy"
+  },
+  {
+    "id": 2,
+    "name": "Airship Dock",
+    "level": 27,
+    "count": 1,
+    "rank": 1,
+    "shortname": "airship"
+  },
+  {
+    "id": 3,
+    "name": "Artillery Foundry",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "artillery"
+  },
+  {
+    "id": 4,
+    "name": "Barracks",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "infantry"
+  },
+  {
+    "id": 5,
+    "name": "Castle",
+    "level": 27,
+    "count": 1,
+    "rank": 1,
+    "shortname": "castle"
+  },
+  {
+    "id": 6,
+    "name": "Embassy",
+    "level": 27,
+    "count": 1,
+    "rank": 1,
+    "shortname": "embassy"
+  },
+  {
+    "id": 7,
+    "name": "Farm",
+    "level": 1,
+    "count": 1,
+    "rank": 1,
+    "shortname": "farm"
+  },
+  {
+    "id": 8,
+    "name": "Forge",
+    "level": 27,
+    "count": 1,
+    "rank": 1,
+    "shortname": "forge"
+  },
+  {
+    "id": 9,
+    "name": "Hall of War",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "warhall"
+  },
+  {
+    "id": 10,
+    "name": "Hospital",
+    "level": 1,
+    "count": 1,
+    "rank": 1,
+    "shortname": "hospital"
+  },
+  {
+    "id": 11,
+    "name": "Iron Mine",
+    "level": 1,
+    "count": 1,
+    "rank": 1,
+    "shortname": "ironMine"
+  },
+  {
+    "id": 12,
+    "name": "Lookout Tower",
+    "level": 27,
+    "count": 1,
+    "rank": 1,
+    "shortname": "lookout"
+  },
+  {
+    "id": 13,
+    "name": "Lumberyard",
+    "level": 1,
+    "count": 1,
+    "rank": 1,
+    "shortname": "lumberyard"
+  },
+  {
+    "id": 14,
+    "name": "Military Tent",
+    "level": 1,
+    "count": 1,
+    "rank": 1,
+    "shortname": "militaryTent"
+  },
+  {
+    "id": 15,
+    "name": "Munitions Exchange",
+    "level": 27,
+    "count": 1,
+    "rank": 1,
+    "shortname": "munitions"
+  },
+  {
+    "id": 16,
+    "name": "Shooting Range",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "distance"
+  },
+  {
+    "id": 17,
+    "name": "Silver Mine",
+    "level": 1,
+    "count": 1,
+    "rank": 1,
+    "shortname": "silverMine"
+  },
+  {
+    "id": 18,
+    "name": "Stables",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "cavalry"
+  },
+  {
+    "id": 19,
+    "name": "Trade Station",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "trade"
+  },
+  {
+    "id": 20,
+    "name": "Trap Factory",
+    "level": 27,
+    "count": 1,
+    "rank": 1,
+    "shortname": "traps"
+  },
+  {
+    "id": 21,
+    "name": "Wall",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "wall"
+  },
+  {
+    "id": 22,
+    "name": "Warehouse",
+    "level": 26,
+    "count": 1,
+    "rank": 1,
+    "shortname": "warehouse"
+  }
 ]
