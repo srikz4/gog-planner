@@ -6,6 +6,10 @@ var buildingsObj = null;
 
     var path = "meta/%WHAT%.json";
 
+    var plan = {};
+    var needsObj = {};
+    var resp = {};
+
     $(document).ready(function() {
         $("#result").hide();
         $("#planner").show();
@@ -51,6 +55,10 @@ var buildingsObj = null;
         $("#targetUpgrades").html("")
         $("#targetRssCost").html("");
         $("#totalTime").val("");
+
+        $("#experimental").val("");
+        needsObj = {};
+        resp = {};
     }
 
     function doSubmit() {
@@ -60,7 +68,7 @@ var buildingsObj = null;
         $("#castleTarget").val($("#castle_to").val());
         $("#castleTargetBy").val($("#targetBy").val());
 
-        var resp = {
+        resp = {
             "plan_id" : $("#plan_id").val(),
             "target" : {
                 "castle" : parseInt($("#castle_to").val()),
@@ -127,6 +135,9 @@ var buildingsObj = null;
             var currentCostObj = costObj.filter(obj => {
                 return obj.building == currentCastleObj.id && obj.level == i
             })[0];
+
+            findBuildingsToUpgrade(currentCastleObj.name, i);
+
             $.each(buildingsObj, function(index) {
                 var upgBuilding = currentCostObj.needs.filter(obj => {
                     return obj.k == buildingsObj[index].id
@@ -148,6 +159,14 @@ var buildingsObj = null;
         $("#targetRssCost").html(htmlRssHolder);
         $("#targetUpgrades").html(htmlUpgHolder);
         $("#totalTime").val(totalTime);
+
+        var experimentalHolder = "";
+
+        $.each(needsObj, function(k, v) {
+            experimentalHolder += "<li>" + v.printNeed() + "</li>";
+        });
+
+        $("#experimental").html(experimentalHolder);
     }
 
     function addTime(addThis, toThis) {
@@ -209,6 +228,56 @@ var buildingsObj = null;
 
     function formatRssAmount(rssAmount) {
         return rssAmount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    }
+
+    function findBuildingsToUpgrade(current, forLevel) {
+        // Get the current building object for the building passed
+        var currentBuildingObj = buildingsObj.filter(obj => {
+            return obj.name == current
+        })[0];
+        // Only do this if needed
+        if (resp.buildings[currentBuildingObj.shortname] < forLevel) {
+            // Get the cost obj associated to the current building and the level requested for
+            var currentCostObj = costObj.filter(obj => {
+                return obj.building == currentBuildingObj.id && obj.level == forLevel
+            })[0];
+
+            var need = { 
+                "Name" : current, 
+                "Level" : forLevel, 
+                "Rss" : getRssToUpgrade(currentCostObj),
+                "Time" : currentCostObj.time,
+                printNeed : function() {
+                    return this.Name + " " + this.Level + " needs " + this.Rss.printRss() + " and takes " + this.Time
+                }
+            };
+
+            // For each building in the cost object
+            $.each(buildingsObj, function(index) {
+                var upgBuilding = currentCostObj.needs.filter(obj => {
+                    return obj.k == buildingsObj[index].id
+                })[0];
+                if(upgBuilding != undefined) {
+                    // Repeat and get the Rss Cost
+                    findBuildingsToUpgrade(buildingsObj[index].name, upgBuilding.v);
+                }
+            });
+
+            // Overwrite same buildings + lvl, so that we don't end up with duplicates
+            needsObj[current+forLevel] = need;
+        }
+    }
+
+    function getRssToUpgrade(costs) {
+        return {
+            "Food" : parseInt(costs["food"]),
+            "Wood" : parseInt(costs["wood"]),
+            "Iron" : parseInt(costs["iron"]),
+            "Silver" : parseInt(costs["silver"]),
+            printRss : function() {
+                return formatRssAmount(this.Food) + " Food, " + formatRssAmount(this.Wood) + " Wood, " + formatRssAmount(this.Iron) + " Iron and " + formatRssAmount(this.Silver) + " Silver !";
+            }
+        };
     }
 
     function loadData() {
